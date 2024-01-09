@@ -1,0 +1,21 @@
+{
+  "project": "AdapterLab",
+  "actual_creation_date": "2026-10-27",
+  "historical_commit_dates": {
+    "years": [2024, 2025],
+    "kind": "reconstructed",
+    "purpose": "Contribution-calendar exercise requested by the repository owner",
+    "represents_actual_development_dates": false
+  },
+  "fixture_data": {
+    "source": "synthetic support-intent examples",
+    "customer_conversations": false,
+    "represents_training_results": false
+  },
+  "measured_runs": {
+    "timestamps": "Actual execution timestamps in run.json",
+    "base_model": "google/bert_uncased_L-2_H-128_A-2",
+    "base_revision": "30b0a37ccaaa32f332884b96992754e246e48c5f",
+    "base_license": "Apache-2.0"
+  }
+}
