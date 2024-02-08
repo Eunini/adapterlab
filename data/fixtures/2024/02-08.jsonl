@@ -83,3 +83,12 @@
 {"group":"delivery-family-0","label":"delivery","text":"Order case-20240208-x-0103 has not arrived despite the delivery estimate. I have already tried again."}
 {"group":"delivery-family-0","label":"delivery","text":"Order case-20240208-x-0104 has not arrived despite the delivery estimate. Could someone investigate?"}
 {"group":"delivery-family-0","label":"delivery","text":"Order case-20240208-x-0105 has not arrived despite the delivery estimate. The problem is still happening."}
+{"group":"delivery-family-1","label":"delivery","text":"Can you check the shipping status of parcel case-20240208-x-0201? This started today."}
+{"group":"delivery-family-1","label":"delivery","text":"Can you check the shipping status of parcel case-20240208-x-0202? Please check when you can."}
+{"group":"delivery-family-1","label":"delivery","text":"Can you check the shipping status of parcel case-20240208-x-0203? I have already tried again."}
+{"group":"delivery-family-1","label":"delivery","text":"Can you check the shipping status of parcel case-20240208-x-0204? Could someone investigate?"}
+{"group":"delivery-family-1","label":"delivery","text":"Can you check the shipping status of parcel case-20240208-x-0205? The problem is still happening."}
+{"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20240208-x-0301 has not updated. This started today."}
+{"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20240208-x-0302 has not updated. Please check when you can."}
+{"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20240208-x-0303 has not updated. I have already tried again."}
+{"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20240208-x-0304 has not updated. Could someone investigate?"}
