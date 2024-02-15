@@ -100,3 +100,12 @@
 {"group":"delivery-family-3","label":"delivery","text":"Package case-20240215-x-0405 was marked delivered but is missing. The problem is still happening."}
 {"group":"delivery-family-4","label":"delivery","text":"My delivery for order case-20240215-x-0501 went to the wrong address. This started today."}
 {"group":"delivery-family-4","label":"delivery","text":"My delivery for order case-20240215-x-0502 went to the wrong address. Please check when you can."}
+{"group":"delivery-family-4","label":"delivery","text":"My delivery for order case-20240215-x-0503 went to the wrong address. I have already tried again."}
+{"group":"delivery-family-4","label":"delivery","text":"My delivery for order case-20240215-x-0504 went to the wrong address. Could someone investigate?"}
+{"group":"delivery-family-4","label":"delivery","text":"My delivery for order case-20240215-x-0505 went to the wrong address. The problem is still happening."}
+{"group":"delivery-family-5","label":"delivery","text":"When will the courier bring parcel case-20240215-x-0601? This started today."}
+{"group":"delivery-family-5","label":"delivery","text":"When will the courier bring parcel case-20240215-x-0602? Please check when you can."}
+{"group":"delivery-family-5","label":"delivery","text":"When will the courier bring parcel case-20240215-x-0603? I have already tried again."}
+{"group":"delivery-family-5","label":"delivery","text":"When will the courier bring parcel case-20240215-x-0604? Could someone investigate?"}
+{"group":"delivery-family-5","label":"delivery","text":"When will the courier bring parcel case-20240215-x-0605? The problem is still happening."}
+{"group":"delivery-family-6","label":"delivery","text":"Shipment case-20240215-x-0701 seems stuck at the distribution center. This started today."}
