@@ -40,3 +40,12 @@
 {"group":"billing-family-7","label":"billing","text":"The amount deducted for purchase case-20240307-x-0805 looks incorrect. The problem is still happening."}
 {"group":"login-family-0","label":"login","text":"I cannot sign in to account case-20240307-x-0101 after resetting my password. This started today."}
 {"group":"login-family-0","label":"login","text":"I cannot sign in to account case-20240307-x-0102 after resetting my password. Please check when you can."}
+{"group":"login-family-0","label":"login","text":"I cannot sign in to account case-20240307-x-0103 after resetting my password. I have already tried again."}
+{"group":"login-family-0","label":"login","text":"I cannot sign in to account case-20240307-x-0104 after resetting my password. Could someone investigate?"}
+{"group":"login-family-0","label":"login","text":"I cannot sign in to account case-20240307-x-0105 after resetting my password. The problem is still happening."}
+{"group":"login-family-1","label":"login","text":"My login for profile case-20240307-x-0201 keeps being rejected. This started today."}
+{"group":"login-family-1","label":"login","text":"My login for profile case-20240307-x-0202 keeps being rejected. Please check when you can."}
+{"group":"login-family-1","label":"login","text":"My login for profile case-20240307-x-0203 keeps being rejected. I have already tried again."}
+{"group":"login-family-1","label":"login","text":"My login for profile case-20240307-x-0204 keeps being rejected. Could someone investigate?"}
+{"group":"login-family-1","label":"login","text":"My login for profile case-20240307-x-0205 keeps being rejected. The problem is still happening."}
+{"group":"login-family-2","label":"login","text":"The verification code for account case-20240307-x-0301 never arrives. This started today."}
