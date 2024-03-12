@@ -118,3 +118,11 @@
 {"group":"delivery-family-7","label":"delivery","text":"I need an updated arrival date for order case-20240312-x-0803. I have already tried again."}
 {"group":"delivery-family-7","label":"delivery","text":"I need an updated arrival date for order case-20240312-x-0804. Could someone investigate?"}
 {"group":"delivery-family-7","label":"delivery","text":"I need an updated arrival date for order case-20240312-x-0805. The problem is still happening."}
+{"group":"cancellation-family-0","label":"cancellation","text":"Please cancel subscription case-20240312-x-0101 before the next renewal. This started today."}
+{"group":"cancellation-family-0","label":"cancellation","text":"Please cancel subscription case-20240312-x-0102 before the next renewal. Please check when you can."}
+{"group":"cancellation-family-0","label":"cancellation","text":"Please cancel subscription case-20240312-x-0103 before the next renewal. I have already tried again."}
+{"group":"cancellation-family-0","label":"cancellation","text":"Please cancel subscription case-20240312-x-0104 before the next renewal. Could someone investigate?"}
+{"group":"cancellation-family-0","label":"cancellation","text":"Please cancel subscription case-20240312-x-0105 before the next renewal. The problem is still happening."}
+{"group":"cancellation-family-1","label":"cancellation","text":"I want to stop the recurring plan case-20240312-x-0201. This started today."}
+{"group":"cancellation-family-1","label":"cancellation","text":"I want to stop the recurring plan case-20240312-x-0202. Please check when you can."}
+{"group":"cancellation-family-1","label":"cancellation","text":"I want to stop the recurring plan case-20240312-x-0203. I have already tried again."}
