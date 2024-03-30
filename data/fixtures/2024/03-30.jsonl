@@ -49,3 +49,12 @@
 {"group":"login-family-1","label":"login","text":"My login for profile case-20240330-x-0204 keeps being rejected. Could someone investigate?"}
 {"group":"login-family-1","label":"login","text":"My login for profile case-20240330-x-0205 keeps being rejected. The problem is still happening."}
 {"group":"login-family-2","label":"login","text":"The verification code for account case-20240330-x-0301 never arrives. This started today."}
+{"group":"login-family-2","label":"login","text":"The verification code for account case-20240330-x-0302 never arrives. Please check when you can."}
+{"group":"login-family-2","label":"login","text":"The verification code for account case-20240330-x-0303 never arrives. I have already tried again."}
+{"group":"login-family-2","label":"login","text":"The verification code for account case-20240330-x-0304 never arrives. Could someone investigate?"}
+{"group":"login-family-2","label":"login","text":"The verification code for account case-20240330-x-0305 never arrives. The problem is still happening."}
+{"group":"login-family-3","label":"login","text":"Signing into user case-20240330-x-0401 returns an authentication error. This started today."}
+{"group":"login-family-3","label":"login","text":"Signing into user case-20240330-x-0402 returns an authentication error. Please check when you can."}
+{"group":"login-family-3","label":"login","text":"Signing into user case-20240330-x-0403 returns an authentication error. I have already tried again."}
+{"group":"login-family-3","label":"login","text":"Signing into user case-20240330-x-0404 returns an authentication error. Could someone investigate?"}
+{"group":"login-family-3","label":"login","text":"Signing into user case-20240330-x-0405 returns an authentication error. The problem is still happening."}
