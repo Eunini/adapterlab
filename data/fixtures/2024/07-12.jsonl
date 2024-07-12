@@ -32,3 +32,11 @@
 {"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240712-x-0702. Please check when you can."}
 {"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240712-x-0703. I have already tried again."}
 {"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240712-x-0704. Could someone investigate?"}
+{"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240712-x-0705. The problem is still happening."}
+{"group":"billing-family-7","label":"billing","text":"The amount deducted for purchase case-20240712-x-0801 looks incorrect. This started today."}
+{"group":"billing-family-7","label":"billing","text":"The amount deducted for purchase case-20240712-x-0802 looks incorrect. Please check when you can."}
+{"group":"billing-family-7","label":"billing","text":"The amount deducted for purchase case-20240712-x-0803 looks incorrect. I have already tried again."}
+{"group":"billing-family-7","label":"billing","text":"The amount deducted for purchase case-20240712-x-0804 looks incorrect. Could someone investigate?"}
+{"group":"billing-family-7","label":"billing","text":"The amount deducted for purchase case-20240712-x-0805 looks incorrect. The problem is still happening."}
+{"group":"login-family-0","label":"login","text":"I cannot sign in to account case-20240712-x-0101 after resetting my password. This started today."}
+{"group":"login-family-0","label":"login","text":"I cannot sign in to account case-20240712-x-0102 after resetting my password. Please check when you can."}
