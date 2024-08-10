@@ -23,3 +23,12 @@
 {"group":"billing-family-4","label":"billing","text":"My payment for invoice case-20240810-x-0503 is not reflected in the balance. I have already tried again."}
 {"group":"billing-family-4","label":"billing","text":"My payment for invoice case-20240810-x-0504 is not reflected in the balance. Could someone investigate?"}
 {"group":"billing-family-4","label":"billing","text":"My payment for invoice case-20240810-x-0505 is not reflected in the balance. The problem is still happening."}
+{"group":"billing-family-5","label":"billing","text":"There is an unexpected transaction on statement case-20240810-x-0601. This started today."}
+{"group":"billing-family-5","label":"billing","text":"There is an unexpected transaction on statement case-20240810-x-0602. Please check when you can."}
+{"group":"billing-family-5","label":"billing","text":"There is an unexpected transaction on statement case-20240810-x-0603. I have already tried again."}
+{"group":"billing-family-5","label":"billing","text":"There is an unexpected transaction on statement case-20240810-x-0604. Could someone investigate?"}
+{"group":"billing-family-5","label":"billing","text":"There is an unexpected transaction on statement case-20240810-x-0605. The problem is still happening."}
+{"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240810-x-0701. This started today."}
+{"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240810-x-0702. Please check when you can."}
+{"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240810-x-0703. I have already tried again."}
+{"group":"billing-family-6","label":"billing","text":"Please explain the extra amount on invoice case-20240810-x-0704. Could someone investigate?"}
