@@ -66,3 +66,12 @@
 {"group":"login-family-5","label":"login","text":"The password reset link for account case-20240901-x-0601 has expired. This started today."}
 {"group":"login-family-5","label":"login","text":"The password reset link for account case-20240901-x-0602 has expired. Please check when you can."}
 {"group":"login-family-5","label":"login","text":"The password reset link for account case-20240901-x-0603 has expired. I have already tried again."}
+{"group":"login-family-5","label":"login","text":"The password reset link for account case-20240901-x-0604 has expired. Could someone investigate?"}
+{"group":"login-family-5","label":"login","text":"The password reset link for account case-20240901-x-0605 has expired. The problem is still happening."}
+{"group":"login-family-6","label":"login","text":"Two-factor authentication is stopping access to profile case-20240901-x-0701. This started today."}
+{"group":"login-family-6","label":"login","text":"Two-factor authentication is stopping access to profile case-20240901-x-0702. Please check when you can."}
+{"group":"login-family-6","label":"login","text":"Two-factor authentication is stopping access to profile case-20240901-x-0703. I have already tried again."}
+{"group":"login-family-6","label":"login","text":"Two-factor authentication is stopping access to profile case-20240901-x-0704. Could someone investigate?"}
+{"group":"login-family-6","label":"login","text":"Two-factor authentication is stopping access to profile case-20240901-x-0705. The problem is still happening."}
+{"group":"login-family-7","label":"login","text":"The sign-in page says the credentials for account case-20240901-x-0801 are invalid. This started today."}
+{"group":"login-family-7","label":"login","text":"The sign-in page says the credentials for account case-20240901-x-0802 are invalid. Please check when you can."}
