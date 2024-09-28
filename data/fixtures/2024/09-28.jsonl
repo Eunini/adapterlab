@@ -220,3 +220,12 @@
 {"group":"technical-family-3","label":"technical","text":"I get a server error while loading resource case-20240928-x-0405. The problem is still happening."}
 {"group":"technical-family-4","label":"technical","text":"The export for report case-20240928-x-0501 fails halfway through. This started today."}
 {"group":"technical-family-4","label":"technical","text":"The export for report case-20240928-x-0502 fails halfway through. Please check when you can."}
+{"group":"technical-family-4","label":"technical","text":"The export for report case-20240928-x-0503 fails halfway through. I have already tried again."}
+{"group":"technical-family-4","label":"technical","text":"The export for report case-20240928-x-0504 fails halfway through. Could someone investigate?"}
+{"group":"technical-family-4","label":"technical","text":"The export for report case-20240928-x-0505 fails halfway through. The problem is still happening."}
+{"group":"technical-family-5","label":"technical","text":"Buttons in workspace case-20240928-x-0601 are unresponsive. This started today."}
+{"group":"technical-family-5","label":"technical","text":"Buttons in workspace case-20240928-x-0602 are unresponsive. Please check when you can."}
+{"group":"technical-family-5","label":"technical","text":"Buttons in workspace case-20240928-x-0603 are unresponsive. I have already tried again."}
+{"group":"technical-family-5","label":"technical","text":"Buttons in workspace case-20240928-x-0604 are unresponsive. Could someone investigate?"}
+{"group":"technical-family-5","label":"technical","text":"Buttons in workspace case-20240928-x-0605 are unresponsive. The problem is still happening."}
+{"group":"technical-family-6","label":"technical","text":"The page for item case-20240928-x-0701 never finishes loading. This started today."}
