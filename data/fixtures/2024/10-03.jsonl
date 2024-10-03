@@ -92,3 +92,11 @@
 {"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20241003-x-0302 has not updated. Please check when you can."}
 {"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20241003-x-0303 has not updated. I have already tried again."}
 {"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20241003-x-0304 has not updated. Could someone investigate?"}
+{"group":"delivery-family-2","label":"delivery","text":"The tracking information for shipment case-20241003-x-0305 has not updated. The problem is still happening."}
+{"group":"delivery-family-3","label":"delivery","text":"Package case-20241003-x-0401 was marked delivered but is missing. This started today."}
+{"group":"delivery-family-3","label":"delivery","text":"Package case-20241003-x-0402 was marked delivered but is missing. Please check when you can."}
+{"group":"delivery-family-3","label":"delivery","text":"Package case-20241003-x-0403 was marked delivered but is missing. I have already tried again."}
+{"group":"delivery-family-3","label":"delivery","text":"Package case-20241003-x-0404 was marked delivered but is missing. Could someone investigate?"}
+{"group":"delivery-family-3","label":"delivery","text":"Package case-20241003-x-0405 was marked delivered but is missing. The problem is still happening."}
+{"group":"delivery-family-4","label":"delivery","text":"My delivery for order case-20241003-x-0501 went to the wrong address. This started today."}
+{"group":"delivery-family-4","label":"delivery","text":"My delivery for order case-20241003-x-0502 went to the wrong address. Please check when you can."}
