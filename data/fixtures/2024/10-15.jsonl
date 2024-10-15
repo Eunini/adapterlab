@@ -58,3 +58,11 @@
 {"group":"login-family-3","label":"login","text":"Signing into user case-20241015-x-0403 returns an authentication error. I have already tried again."}
 {"group":"login-family-3","label":"login","text":"Signing into user case-20241015-x-0404 returns an authentication error. Could someone investigate?"}
 {"group":"login-family-3","label":"login","text":"Signing into user case-20241015-x-0405 returns an authentication error. The problem is still happening."}
+{"group":"login-family-4","label":"login","text":"I am locked out of profile case-20241015-x-0501. This started today."}
+{"group":"login-family-4","label":"login","text":"I am locked out of profile case-20241015-x-0502. Please check when you can."}
+{"group":"login-family-4","label":"login","text":"I am locked out of profile case-20241015-x-0503. I have already tried again."}
+{"group":"login-family-4","label":"login","text":"I am locked out of profile case-20241015-x-0504. Could someone investigate?"}
+{"group":"login-family-4","label":"login","text":"I am locked out of profile case-20241015-x-0505. The problem is still happening."}
+{"group":"login-family-5","label":"login","text":"The password reset link for account case-20241015-x-0601 has expired. This started today."}
+{"group":"login-family-5","label":"login","text":"The password reset link for account case-20241015-x-0602 has expired. Please check when you can."}
+{"group":"login-family-5","label":"login","text":"The password reset link for account case-20241015-x-0603 has expired. I have already tried again."}
