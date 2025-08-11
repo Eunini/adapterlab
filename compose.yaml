@@ -1,0 +1,26 @@
+services:
+  api:
+    build: .
+    ports: ["127.0.0.1:8010:8000"]
+    environment:
+      PROTECTED_MODE: ${PROTECTED_MODE:-false}
+      OPERATOR_TOKEN: ${OPERATOR_TOKEN:-}
+    volumes: ["runtime:/app/data/runtime", "artifacts:/app/artifacts"]
+    restart: unless-stopped
+  worker:
+    build: .
+    command: ["/app/.venv/bin/adapterlab-worker"]
+    environment:
+      PROTECTED_MODE: ${PROTECTED_MODE:-false}
+      OPERATOR_TOKEN: ${OPERATOR_TOKEN:-}
+    volumes: ["runtime:/app/data/runtime", "artifacts:/app/artifacts"]
+    depends_on:
+      api:
+        condition: service_healthy
+    healthcheck:
+      disable: true
+    stop_grace_period: 45s
+    restart: unless-stopped
+volumes:
+  runtime:
+  artifacts:
