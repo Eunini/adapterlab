@@ -1,0 +1,30 @@
+{
+  "examples": 240,
+  "labels": [
+    "account",
+    "billing",
+    "cancellation",
+    "delivery",
+    "login",
+    "technical"
+  ],
+  "label_counts": {
+    "account": 40,
+    "billing": 40,
+    "cancellation": 40,
+    "delivery": 40,
+    "login": 40,
+    "technical": 40
+  },
+  "splits": {
+    "test": 30,
+    "train": 180,
+    "validation": 30
+  },
+  "groups": 48,
+  "duplicates_removed": 0,
+  "possible_pii_examples": 0,
+  "split_method": "label-stratified groups, deterministic SHA-256 order",
+  "fingerprint": "452710ab0bf595050805180e10ff423b58723ae1f34c22153da411fd87cbd8dc",
+  "synthetic": true
+}

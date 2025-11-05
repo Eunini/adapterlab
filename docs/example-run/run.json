@@ -1,0 +1,24 @@
+{
+  "config": {
+    "strategy": "lora",
+    "rank": 8,
+    "learning_rate": 0.001,
+    "epochs": 4,
+    "batch_size": 8,
+    "max_length": 96,
+    "seed": 42
+  },
+  "labels": [
+    "account",
+    "billing",
+    "cancellation",
+    "delivery",
+    "login",
+    "technical"
+  ],
+  "base_model": "google/bert_uncased_L-2_H-128_A-2",
+  "base_revision": "30b0a37ccaaa32f332884b96992754e246e48c5f",
+  "dataset_fingerprint": "452710ab0bf595050805180e10ff423b58723ae1f34c22153da411fd87cbd8dc",
+  "trained_at": "2026-10-27T22:29:34.637562+00:00",
+  "synthetic_data": true
+}

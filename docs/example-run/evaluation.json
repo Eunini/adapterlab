@@ -1,0 +1,235 @@
+{
+  "baseline": {
+    "accuracy": 0.16666666666666666,
+    "macro_f1": 0.047619047619047616,
+    "samples": 30,
+    "labels": [
+      "account",
+      "billing",
+      "cancellation",
+      "delivery",
+      "login",
+      "technical"
+    ],
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0
+      ]
+    ],
+    "per_class": [
+      {
+        "label": "account",
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "billing",
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "cancellation",
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "delivery",
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "login",
+        "precision": 0.16666666666666666,
+        "recall": 1.0,
+        "f1": 0.2857142857142857,
+        "support": 5
+      },
+      {
+        "label": "technical",
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      }
+    ],
+    "loss": 1.8211933612823485
+  },
+  "baseline_description": "Pretrained encoder with an untrained classification head",
+  "test": {
+    "accuracy": 0.5666666666666667,
+    "macro_f1": 0.51994301994302,
+    "samples": 30,
+    "labels": [
+      "account",
+      "billing",
+      "cancellation",
+      "delivery",
+      "login",
+      "technical"
+    ],
+    "confusion_matrix": [
+      [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        4,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ],
+    "per_class": [
+      {
+        "label": "account",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 5
+      },
+      {
+        "label": "billing",
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "cancellation",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "delivery",
+        "precision": 0.375,
+        "recall": 0.6,
+        "f1": 0.4615384615384615,
+        "support": 5
+      },
+      {
+        "label": "login",
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1": 0.888888888888889,
+        "support": 5
+      },
+      {
+        "label": "technical",
+        "precision": 0.625,
+        "recall": 1.0,
+        "f1": 0.7692307692307693,
+        "support": 5
+      }
+    ],
+    "loss": 1.6918883482615152
+  },
+  "best_epoch": 4,
+  "validation_macro_f1": 0.2664141414141414,
+  "trainable_parameters": 8966,
+  "total_parameters": 4395660,
+  "trainable_pct": 0.204,
+  "steps": 92,
+  "elapsed_seconds": 164.736,
+  "base_model": "google/bert_uncased_L-2_H-128_A-2",
+  "base_revision": "30b0a37ccaaa32f332884b96992754e246e48c5f",
+  "dataset_fingerprint": "452710ab0bf595050805180e10ff423b58723ae1f34c22153da411fd87cbd8dc",
+  "torch_version": "2.14.1+cpu",
+  "hardware": {
+    "device": "cpu",
+    "threads": 2,
+    "machine": "x86_64"
+  }
+}

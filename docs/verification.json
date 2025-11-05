@@ -1,0 +1,19 @@
+{
+  "actual_verification_date": "2026-10-27",
+  "backend_tests": {
+    "passed": 23
+  },
+  "browser_checks": {
+    "passed": 5,
+    "skipped": 1,
+    "skip_reason": "The real training flow runs once on desktop; mobile separately checks navigation, dataset validation, and layout."
+  },
+  "measured_pretrained_runs": [
+    "LoRA support-intent classifier",
+    "Head-only support-intent classifier",
+    "Browser-driven training, inference, and ZIP export"
+  ],
+  "wheel_resource_check": "Base-model license included",
+  "container_verification": "Full API/worker training smoke test configured in CI",
+  "historical_commit_dates": "Reconstructed, disclosed in provenance.json"
+}
