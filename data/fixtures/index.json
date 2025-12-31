@@ -1,0 +1,3088 @@
+{
+  "synthetic": true,
+  "actual_generation_date": "2026-10-27",
+  "examples_per_fixture": 240,
+  "kind": "dataset-validation fixtures",
+  "days": [
+    {
+      "date": "2024-01-17",
+      "file": "2024/01-17.jsonl",
+      "examples": 240,
+      "sha256": "a2cd5e531e99ccb04949b8ce4fc9fb5e5e6965bda63dcedcb45e85d31adc8f9e",
+      "dataset_fingerprint": "8a18ce8d6da7ad5cae0a2f5b02a2cff44e285dc1901685ac1008b641d2045789"
+    },
+    {
+      "date": "2024-01-18",
+      "file": "2024/01-18.jsonl",
+      "examples": 240,
+      "sha256": "4f7ec6332007e779f60ce5d39edea024d7f47c8d5eb504f16bb358acf5bca530",
+      "dataset_fingerprint": "ff7518b4f8dcd7a4e09539ce5b72f2b45ac18d9d842e91866c3d42a67ab0284a"
+    },
+    {
+      "date": "2024-01-24",
+      "file": "2024/01-24.jsonl",
+      "examples": 240,
+      "sha256": "6ff7086b6d9abbbbc985e6d5bdb071aa9f679bd22f8fe9e9b36b6877cd34e95e",
+      "dataset_fingerprint": "0992a48333d542d31b0a1534b9d17c39e68d716d194ddf1c868f3deca1ec899c"
+    },
+    {
+      "date": "2024-01-25",
+      "file": "2024/01-25.jsonl",
+      "examples": 240,
+      "sha256": "bd23900b3ea272f2867db49fad33115eb236b4c098b8d9df7fb427593a426c7e",
+      "dataset_fingerprint": "3f044e4c9c79698af3e70ad8610900d3458d78e773acc192358eadd2ab526427"
+    },
+    {
+      "date": "2024-01-26",
+      "file": "2024/01-26.jsonl",
+      "examples": 240,
+      "sha256": "a3eca945bc283a9876a3bd06ec18c1ab3809172c4e150e0466b8e6cd58690eb0",
+      "dataset_fingerprint": "b2c7034025132ec949511e6f8890e3ee131e61012bd27fa699e6eb03e7fa4a9e"
+    },
+    {
+      "date": "2024-01-29",
+      "file": "2024/01-29.jsonl",
+      "examples": 240,
+      "sha256": "0e66a9be7124021d9380f7166cd6d0fd13d7810acdc9bd6a27fa6dbbf65c3f2c",
+      "dataset_fingerprint": "02e49d8d30805709d7487749d769b8e7ce0a41e4438ee0df68ded38058e21dbf"
+    },
+    {
+      "date": "2024-01-31",
+      "file": "2024/01-31.jsonl",
+      "examples": 240,
+      "sha256": "105611a3efbc39193f26126c2d4b060bc0ce9fbdaf303bf9d03b59129ce5bac1",
+      "dataset_fingerprint": "48cb3724252a5dca42a1c36f18cba301ff290863d53800dc7e96ae25bbae675d"
+    },
+    {
+      "date": "2024-02-01",
+      "file": "2024/02-01.jsonl",
+      "examples": 240,
+      "sha256": "501c57aff8aa89e4ab6ac0887ea5e97e28c3427772aad8989636a36ebef49237",
+      "dataset_fingerprint": "335ec8af809a6417701991a68f7c4d161be464c57ec0c3fcac6042ec2eb3d7d2"
+    },
+    {
+      "date": "2024-02-02",
+      "file": "2024/02-02.jsonl",
+      "examples": 240,
+      "sha256": "c52072feb0ae92ed7372ebedf8586c562d6e61d9ed589804d18fedcff11adabe",
+      "dataset_fingerprint": "9e43b89740ba274b6ba28572aaa4945a0d73000e26765060a7c538e5af342250"
+    },
+    {
+      "date": "2024-02-03",
+      "file": "2024/02-03.jsonl",
+      "examples": 240,
+      "sha256": "8f67eef81120037c039f3e55a7fe7a695b0592dc291c89091aae5df03db01669",
+      "dataset_fingerprint": "96205e58e1bc597dcb2ae9c1b9c593de7a652215a59f55bd9b991652e9778fd9"
+    },
+    {
+      "date": "2024-02-05",
+      "file": "2024/02-05.jsonl",
+      "examples": 240,
+      "sha256": "688d4d664969cbe8390528fa3f5682d5296cec8a5675c8553e7d7c3e8d7e42a9",
+      "dataset_fingerprint": "fb6e25396a58b968f977e150ebb601caf46bdc7293e58a570b9d5363de38e40f"
+    },
+    {
+      "date": "2024-02-06",
+      "file": "2024/02-06.jsonl",
+      "examples": 240,
+      "sha256": "ba590aea60b6ad19f51990db63117924dc742656eef3b729171b80a764135ae9",
+      "dataset_fingerprint": "645dc9f353ad74915d380661818b4ccff8a18162a890967a2061ea970a03a06d"
+    },
+    {
+      "date": "2024-02-07",
+      "file": "2024/02-07.jsonl",
+      "examples": 240,
+      "sha256": "402a828852d17e26faae541099852791033ffe76385f4eab0996aef979b929fa",
+      "dataset_fingerprint": "b07a58235d79d5fea385307a93e5b39ef0ee02e135335e0063cf4252a62eab13"
+    },
+    {
+      "date": "2024-02-08",
+      "file": "2024/02-08.jsonl",
+      "examples": 240,
+      "sha256": "4cb3f1448ec1a2b9547f7b68bc3095e4694082dbbf7655faaf54197badfd77e3",
+      "dataset_fingerprint": "0bf3f4a86bb988796cc2ad4f604942b18577be51a18ad85c18c5e0b2f9d144d9"
+    },
+    {
+      "date": "2024-02-09",
+      "file": "2024/02-09.jsonl",
+      "examples": 240,
+      "sha256": "2d8908ca1f64148a5ad2a86ed425dfb914591bfac7b6bb83921cd58247370486",
+      "dataset_fingerprint": "7b0d89733d8fa362e5691e8b61dd21b4a9d1fc42baceeb630f107cc5a964a8e3"
+    },
+    {
+      "date": "2024-02-10",
+      "file": "2024/02-10.jsonl",
+      "examples": 240,
+      "sha256": "8dc04d2d59e0b279e0637a68852aac92f58b559a639d773d4108b995f26e82ca",
+      "dataset_fingerprint": "750c7431c3a4cab355bf785a87143a2588aa886b65b0ca40fd7e120680de7d22"
+    },
+    {
+      "date": "2024-02-11",
+      "file": "2024/02-11.jsonl",
+      "examples": 240,
+      "sha256": "3d191dbf4c8ee655cec25fea6053e78e29f48fbcb13d4cb17fffdb2e6f378075",
+      "dataset_fingerprint": "8aef00441ad50cc34a046ced76d3fa5309f95cf7a5bf9d4b4e41eda0d0e64db3"
+    },
+    {
+      "date": "2024-02-12",
+      "file": "2024/02-12.jsonl",
+      "examples": 240,
+      "sha256": "f2de61a6c4eaa08c943c84acdf2e1742491a3e9b4132dbba6fc5fecffa85e189",
+      "dataset_fingerprint": "a1480e61c6e6a14409ad7d6c841f59f51619307378343553511b20326b1e80d1"
+    },
+    {
+      "date": "2024-02-13",
+      "file": "2024/02-13.jsonl",
+      "examples": 240,
+      "sha256": "77f8fccef6ddaffb6d6ed363d6a5b26b53f5f700d4e3e86bcb259b61456dba7e",
+      "dataset_fingerprint": "cdd9d33ac90e0357a9b37eafad8afd8355d324de4eb88f4bd4f9e4ae552a1506"
+    },
+    {
+      "date": "2024-02-14",
+      "file": "2024/02-14.jsonl",
+      "examples": 240,
+      "sha256": "db2157f78157e4cf4f48a2382cd0f523d816eebc3a7ebb9a379dd42e7bc2f7fa",
+      "dataset_fingerprint": "3974cab11ed09617089d126d9ea572b52964db4a2744f46c82b0880d70f688ab"
+    },
+    {
+      "date": "2024-02-15",
+      "file": "2024/02-15.jsonl",
+      "examples": 240,
+      "sha256": "07e8ef7c836960eab4a97265266084814ab69876ec0f714ada05de5ed8eed536",
+      "dataset_fingerprint": "f6eff5d4121447fcf05b23c1091b11fbfc9bf797b2934b5a4d9104a9aa99ce95"
+    },
+    {
+      "date": "2024-02-16",
+      "file": "2024/02-16.jsonl",
+      "examples": 240,
+      "sha256": "ed2c824a85aefc31508ebb39b0b8cecd531758c7388c5666256e60adb1acc92b",
+      "dataset_fingerprint": "1a193ac480b2385ebe3448f258d0089467236da813630179984414b3eb200896"
+    },
+    {
+      "date": "2024-02-17",
+      "file": "2024/02-17.jsonl",
+      "examples": 240,
+      "sha256": "a484dfee385166a720782bf88e471e09fc45684cd1b55f68cbefadf109b427c3",
+      "dataset_fingerprint": "ad558183bba4329ae3fbbdb918a29c7b1652d1999d6238b2c557a8033521e626"
+    },
+    {
+      "date": "2024-02-19",
+      "file": "2024/02-19.jsonl",
+      "examples": 240,
+      "sha256": "42300bb8564d9cfdfc590929e33ccaea0144952c9826095884d446c251868c95",
+      "dataset_fingerprint": "0359d46b44d559b248a3b5bf74c7a7c4b47d73f9f6945b31105e3b4e83ad912d"
+    },
+    {
+      "date": "2024-02-20",
+      "file": "2024/02-20.jsonl",
+      "examples": 240,
+      "sha256": "546c73038701ddd956ff25e1cbd434642916bdb3bf09e020ab2828935e8100aa",
+      "dataset_fingerprint": "155bbe3578e4014c39bf627cbcda43c0ab1330729c7c68f3c88546577d2e0e56"
+    },
+    {
+      "date": "2024-02-21",
+      "file": "2024/02-21.jsonl",
+      "examples": 240,
+      "sha256": "bf90ed312725096453c899e9e70221c933bab6a3f4bfa32cf042d602b586025c",
+      "dataset_fingerprint": "11993fa19f1c5c9fd8d0ffd184568992b1a74df0412f2a223ff397fcbf34f1db"
+    },
+    {
+      "date": "2024-02-23",
+      "file": "2024/02-23.jsonl",
+      "examples": 240,
+      "sha256": "9dc4daf29d8ffe9123c62d930f16afd4a8cdb4ca7131a62176d7046cbe5a8426",
+      "dataset_fingerprint": "2077f49d7b896de769cdc2526794c882f6e4eaf3978a6c6403566e1c27a24e84"
+    },
+    {
+      "date": "2024-02-27",
+      "file": "2024/02-27.jsonl",
+      "examples": 240,
+      "sha256": "45ba832f5d992b7d50e2e0e70a2d21d861e6189c54387891569b59ae64eb9f18",
+      "dataset_fingerprint": "076f861f588218af03c37ba52972b321a47903b61828c45792853e8f91529323"
+    },
+    {
+      "date": "2024-02-28",
+      "file": "2024/02-28.jsonl",
+      "examples": 240,
+      "sha256": "8d1199dd912afb0fb48accefdbae976d2ca87cf3e9078235a75b811b19931e91",
+      "dataset_fingerprint": "1f12f3d1d39e01b5d2b1b12658ffda41c581e94216ec5c18c6f6f0f431a2f8d0"
+    },
+    {
+      "date": "2024-03-02",
+      "file": "2024/03-02.jsonl",
+      "examples": 240,
+      "sha256": "05e43cfc3234ed4ddda27c99f994e2c531f71305e3ac178bcdc07cc6c2200f82",
+      "dataset_fingerprint": "8c1df1bb410a815f448148236a4ee7bf74f9a73f0455268618568e66647ddc9b"
+    },
+    {
+      "date": "2024-03-03",
+      "file": "2024/03-03.jsonl",
+      "examples": 240,
+      "sha256": "93b61e7211bdc4b82e2134b4a806f649c2474a8f4947afce0d8a52e32858d47c",
+      "dataset_fingerprint": "4415d5ae8254c0e07f5cb82f8f1243b460f14f29134bc54ff73f121c0c843461"
+    },
+    {
+      "date": "2024-03-04",
+      "file": "2024/03-04.jsonl",
+      "examples": 240,
+      "sha256": "b8a45ecfc042a7f5d266c410605fcb3d8a763e6ba72098e6be99d91c69645d20",
+      "dataset_fingerprint": "d5a8e1bd30dc18cb6670bbd0822e09b85c64299018837110c8846c6bbf3e7364"
+    },
+    {
+      "date": "2024-03-05",
+      "file": "2024/03-05.jsonl",
+      "examples": 240,
+      "sha256": "abf88ceac92f62bf6e9671a2c190d85e86a195c20ebd9c53dfe19d4aaaa76ee6",
+      "dataset_fingerprint": "cc3bd04a55c172b95c13daf9687867cb6c8ae5c127e1daee616138406f1c853f"
+    },
+    {
+      "date": "2024-03-06",
+      "file": "2024/03-06.jsonl",
+      "examples": 240,
+      "sha256": "8276360855f2fb5ccd348429fb4149fa448645efb2424df6091e6aa59971a10b",
+      "dataset_fingerprint": "149433326c0b1974b76c8ecf63575ce20ae8b37e9851f6097eb2ee95496cdbea"
+    },
+    {
+      "date": "2024-03-07",
+      "file": "2024/03-07.jsonl",
+      "examples": 240,
+      "sha256": "39f2ae48b91ee3441851076f66ff2f27b03336b4bacc3f399b0e8fe583c4ee56",
+      "dataset_fingerprint": "49cbcdfd4e238bd9bf79facec536194cd2ae34ff61d171941fa70724a1c4f2e3"
+    },
+    {
+      "date": "2024-03-08",
+      "file": "2024/03-08.jsonl",
+      "examples": 240,
+      "sha256": "e0e97c6261b04ad2c853340cf13b9222c14fc7f1a6de46052567aea786890021",
+      "dataset_fingerprint": "51da42b9f999a2d930a30a72b887aef9d0b11550004d4569aeaccca7d6502f43"
+    },
+    {
+      "date": "2024-03-09",
+      "file": "2024/03-09.jsonl",
+      "examples": 240,
+      "sha256": "adcade7f0325a39f1ba101831f6b9f72fd776f029dcf370de0c6beddac78b13f",
+      "dataset_fingerprint": "824783e4d7e100bc99821d5320b149d9e6f8a0ed0cff519681224e827b9fa003"
+    },
+    {
+      "date": "2024-03-10",
+      "file": "2024/03-10.jsonl",
+      "examples": 240,
+      "sha256": "9cc0ce50743b040daadffc5b50e16a572a0d38f1473046540272c5733990c41f",
+      "dataset_fingerprint": "5310fd85473642896440fc342fb9fae554c1696965e5eeb821f11e8eaa08af01"
+    },
+    {
+      "date": "2024-03-12",
+      "file": "2024/03-12.jsonl",
+      "examples": 240,
+      "sha256": "f884a22f5ed12c660da8e808945160941a21375874d0ede5bd828733549daacf",
+      "dataset_fingerprint": "c52cb69ef5013d73cfd2ced97ae37776659f9d624497c0a41097b11908a9146a"
+    },
+    {
+      "date": "2024-03-14",
+      "file": "2024/03-14.jsonl",
+      "examples": 240,
+      "sha256": "7f660259c12c81a44c52f3af8dc0af817e57ea187e41f948af26e283279ecc3d",
+      "dataset_fingerprint": "eae8aa60aaa823cc0664b930a389308230fc19fc6c1e54926ed50c4cba5b8f6b"
+    },
+    {
+      "date": "2024-03-15",
+      "file": "2024/03-15.jsonl",
+      "examples": 240,
+      "sha256": "79d3d8d1adcce003d7f6e64a6a07976623424183bde0a5d8f6722720160d95ef",
+      "dataset_fingerprint": "0892c9435f176910706e5336d1650c73b154697d2218c90dfcf025c141bd3e1a"
+    },
+    {
+      "date": "2024-03-16",
+      "file": "2024/03-16.jsonl",
+      "examples": 240,
+      "sha256": "04997cd6f1a5654eb6db1fb4cd536880c37430179ed6d07b0fcd9fccdfbfe393",
+      "dataset_fingerprint": "28f760ce2330b46a883bb47137ca326b65dfbfa21b19fa95847cfb46117f09e0"
+    },
+    {
+      "date": "2024-03-17",
+      "file": "2024/03-17.jsonl",
+      "examples": 240,
+      "sha256": "8fb72a0d78f886b4e42d723fa30c247dbcb8ce09c0a50d795af1840a73a42cd8",
+      "dataset_fingerprint": "0458787ec0f5791c349d23f09f4b1aa26b863e0e7a581245be79d25273526133"
+    },
+    {
+      "date": "2024-03-18",
+      "file": "2024/03-18.jsonl",
+      "examples": 240,
+      "sha256": "c1bd7c028075c53ea53021fa9da11d3f9d2f6448ea9dcddf6aded20ad71c42c7",
+      "dataset_fingerprint": "0298584bc1ee2a81f3c85d0d0170e8c9f6c5101ab08797dbb2ba84e0c6e492ba"
+    },
+    {
+      "date": "2024-03-19",
+      "file": "2024/03-19.jsonl",
+      "examples": 240,
+      "sha256": "58992b4d29ce5a22cc4a378e86220b14833d16b4934a344ece530ca1d34e924d",
+      "dataset_fingerprint": "1e2cf091fc2203073d80136f24165b1df7465d943d12828d438b805f37695d32"
+    },
+    {
+      "date": "2024-03-20",
+      "file": "2024/03-20.jsonl",
+      "examples": 240,
+      "sha256": "912272acfee783f9aca1e3908fd8772f3113af228899ddf0cf5c9da0946d252e",
+      "dataset_fingerprint": "52019b219ed791e5eaf359799f767c33399151fbabc3415b4829c7a48bc8950b"
+    },
+    {
+      "date": "2024-03-21",
+      "file": "2024/03-21.jsonl",
+      "examples": 240,
+      "sha256": "3faac579ce8a41409836bbdb34a8d5f60e7c2227e785b3412aaa15e624901b98",
+      "dataset_fingerprint": "3fb95a128548b10eec4ce8a9eb6b0eab039d1cbb6bfd596d24c12f7b022ffdda"
+    },
+    {
+      "date": "2024-03-22",
+      "file": "2024/03-22.jsonl",
+      "examples": 240,
+      "sha256": "33910aaa96a0d8a5c0c9e9ff10e58e42d9f0660cbbe079afe6d72f77e9da361f",
+      "dataset_fingerprint": "892061abee2cf52a8db47125e431eb57dd6b76a188b0c533688fef723e6e3863"
+    },
+    {
+      "date": "2024-03-23",
+      "file": "2024/03-23.jsonl",
+      "examples": 240,
+      "sha256": "9b1e1be265eb709a2ca290c171d6105e43a9717113379e707938db22e926e1b5",
+      "dataset_fingerprint": "888c47d0959f0d743219e4d7668be018d5aabdf915a901777912a42ba054024c"
+    },
+    {
+      "date": "2024-03-25",
+      "file": "2024/03-25.jsonl",
+      "examples": 240,
+      "sha256": "270ec35fca6e67caa8f8a1800bfac7d9b3e8152b8c6c51e7c92ff9d4352b74e7",
+      "dataset_fingerprint": "dec9d54317fcc535ae7608fb0c6f615388250343cf2a8eb99b40cfb7d1169a0b"
+    },
+    {
+      "date": "2024-03-26",
+      "file": "2024/03-26.jsonl",
+      "examples": 240,
+      "sha256": "16073a376ff3b6469bad777c16a73d73cd23c4907fe5bdc06407a3665de5df4e",
+      "dataset_fingerprint": "bd240b6d17a6353bf36cf49e12cb7117046968fcd0093c5a82f79ecf0eb9037c"
+    },
+    {
+      "date": "2024-03-27",
+      "file": "2024/03-27.jsonl",
+      "examples": 240,
+      "sha256": "373a3d85d9a0443eed28990fc8a61e37acb439eddd4a4211bcb29457d47b0810",
+      "dataset_fingerprint": "864125f2c2253f71f66f4bd40e460cfb79bfcfe28dffde60cd9e4e9645481846"
+    },
+    {
+      "date": "2024-03-28",
+      "file": "2024/03-28.jsonl",
+      "examples": 240,
+      "sha256": "31014a3f2f63af54b3e660d6e33c593ed7e54318856cdc5ca1172d391a4c5612",
+      "dataset_fingerprint": "b73ced5a4957747244202481f96dd40af5f5ce4038f806572a46ec9e7632145c"
+    },
+    {
+      "date": "2024-03-29",
+      "file": "2024/03-29.jsonl",
+      "examples": 240,
+      "sha256": "ae21a5d98c6fc75e57146ae62a3f470845986f70b936e468ec85264910e4eb81",
+      "dataset_fingerprint": "24daf989ab496b9e4ccf87db84fbe6a5cada24c1b4cec26e20be8d9d4c1065b6"
+    },
+    {
+      "date": "2024-03-30",
+      "file": "2024/03-30.jsonl",
+      "examples": 240,
+      "sha256": "1d1a4f1c25a18b94edc5c9b566f650ff53cb6cde486f3a4246e3bb663b4904b7",
+      "dataset_fingerprint": "1858872e669ca60255d9dcb03b0fc0b78334c6bb6806f165c5f1ed07e2b07e62"
+    },
+    {
+      "date": "2024-04-01",
+      "file": "2024/04-01.jsonl",
+      "examples": 240,
+      "sha256": "2dc6df8b0d5d54d44e52dd911e44d46195b241ce52a2c5d5342c9d923de906d3",
+      "dataset_fingerprint": "aab5d74345fb3cdaa19d790deca87b2fe62e53e7b6eed8542209cc6f8d30703b"
+    },
+    {
+      "date": "2024-04-02",
+      "file": "2024/04-02.jsonl",
+      "examples": 240,
+      "sha256": "679d1876792910a4cbe8baeeb631de2aea70ae6ba53b8c89c80b5db5fd616ac5",
+      "dataset_fingerprint": "ffb593fd8e965d9f208acf25592113763ca23726558ca86e18e6e671fb3f358b"
+    },
+    {
+      "date": "2024-04-03",
+      "file": "2024/04-03.jsonl",
+      "examples": 240,
+      "sha256": "ef9640648d13790e14121dcdb31fabb78b87b6f99ada1d8a6a0062822c05b750",
+      "dataset_fingerprint": "fa8787945b61ea62201b32126dce53d8e952029fb843da1a3114e608754e84e4"
+    },
+    {
+      "date": "2024-04-04",
+      "file": "2024/04-04.jsonl",
+      "examples": 240,
+      "sha256": "de63b1d44a7dd86ff461a646e3701f9bc18784c732bbaacffcfb2f69a0c08922",
+      "dataset_fingerprint": "fbd2cc8adde71cf2ee488e4027bc9364db8d0af251e3726d9d833a388fc5b08c"
+    },
+    {
+      "date": "2024-04-05",
+      "file": "2024/04-05.jsonl",
+      "examples": 240,
+      "sha256": "c782bb919bd0d464e0d955b45755cf2dd4dbbdf1b5a62626e2dfec28e5c5b06c",
+      "dataset_fingerprint": "466f13cb774a699112fb0df96ba2c0798e31186f7d518f15947a6e9bfd7bf428"
+    },
+    {
+      "date": "2024-04-06",
+      "file": "2024/04-06.jsonl",
+      "examples": 240,
+      "sha256": "1d19ffc9f86c45c174d806ec20a7b51b7ce50cdc84e907a579a8a58e22968e04",
+      "dataset_fingerprint": "f0adf1dfd6d433d11de5a0c2095da971b328c16f0aa9e3b441247b19a016d973"
+    },
+    {
+      "date": "2024-04-07",
+      "file": "2024/04-07.jsonl",
+      "examples": 240,
+      "sha256": "e0badae8314f80db053663ec855c1709996048cc748ed036f48ad6fae877c2c0",
+      "dataset_fingerprint": "afc945a0ffad17f7a81720d7e2aa4885ff9c4407047c8155ff665270ab1c48a4"
+    },
+    {
+      "date": "2024-04-11",
+      "file": "2024/04-11.jsonl",
+      "examples": 240,
+      "sha256": "0490cc1bfc9f91da3c0c8b366fbd8beebb591610c6e6579f754a4ca497b17694",
+      "dataset_fingerprint": "aa4eb44d8f385b864a9e25aa70ff7d819d3f861a87019e9576f9345349b1ae49"
+    },
+    {
+      "date": "2024-04-12",
+      "file": "2024/04-12.jsonl",
+      "examples": 240,
+      "sha256": "1e83c7450580e5c3229b370d5f69fa8a175556919c7170bf8aa81d5ccf9f0e74",
+      "dataset_fingerprint": "44ad047ec038e4f935795a1fb0a1bad446984b9a2e687e0e6bffa117d71b024e"
+    },
+    {
+      "date": "2024-04-13",
+      "file": "2024/04-13.jsonl",
+      "examples": 240,
+      "sha256": "96b7e41f838ec104c587b7023cf0bd0b2b1725702e69cde817b327a94a0e5cee",
+      "dataset_fingerprint": "4ffc416304deab50f278194f922f2df065d18c42cebbfb35669e08d90599f3ff"
+    },
+    {
+      "date": "2024-04-14",
+      "file": "2024/04-14.jsonl",
+      "examples": 240,
+      "sha256": "28d9fb1681df1c620378b503b1b0709b770d05ee4290877e58e6a13fcd9d3227",
+      "dataset_fingerprint": "6762d954d6ff285b230ea19cb4a5ba43edc2928cda1fe7f9b065f3c80c6d13ae"
+    },
+    {
+      "date": "2024-04-15",
+      "file": "2024/04-15.jsonl",
+      "examples": 240,
+      "sha256": "80dd9ee145ea5e264136de33a9f2bb97e2596209f38e1c3c27be8e6d23070336",
+      "dataset_fingerprint": "d4c75a8335b033659a007c32a40ef7b397272df566a656fc392c17de2d87c792"
+    },
+    {
+      "date": "2024-04-16",
+      "file": "2024/04-16.jsonl",
+      "examples": 240,
+      "sha256": "c8be9e77a93b1382395e844932af588769705bbd86d9886c1d1de041383b2087",
+      "dataset_fingerprint": "67b5954e13298beabdb3da1fe0a5b23d8f862ff4f78142dd56fd18123a97b534"
+    },
+    {
+      "date": "2024-04-17",
+      "file": "2024/04-17.jsonl",
+      "examples": 240,
+      "sha256": "d90d23a031d85043a9eadcd30a2cf53d23fa0332c728540e07b7efeca3e9a9a6",
+      "dataset_fingerprint": "3ccbd56350b216238e47a355dba98f73d756adbe7064bd5279f8529bc9cc64f3"
+    },
+    {
+      "date": "2024-04-18",
+      "file": "2024/04-18.jsonl",
+      "examples": 240,
+      "sha256": "8e96465f8174e1279cb07d5240413d8e2953e9574f1e5ef4b39252cb391dcf9a",
+      "dataset_fingerprint": "a313da34e5510caac7c6242e0890c58553f34ba570c02cd7d1e2af7aa3fdfba2"
+    },
+    {
+      "date": "2024-04-19",
+      "file": "2024/04-19.jsonl",
+      "examples": 240,
+      "sha256": "524e21cea3a08d044c81650575d505a11f0968a5096c7510a6589567f69c88cc",
+      "dataset_fingerprint": "03ad83d463d4217dab2faaaac3220d13b51fe0468a883ed69be6e5611c26fe85"
+    },
+    {
+      "date": "2024-04-20",
+      "file": "2024/04-20.jsonl",
+      "examples": 240,
+      "sha256": "ce05dc34254861b1dd85600e9117d5ee3be060e0a3da57d831f0d29c83c6b738",
+      "dataset_fingerprint": "9bb00ba52e5c6e20f72922b38fc260f91c3290f461166a48eda0d38d3ad40fb0"
+    },
+    {
+      "date": "2024-04-21",
+      "file": "2024/04-21.jsonl",
+      "examples": 240,
+      "sha256": "c204c538e0346dad13875be35450551fc08bc628c6cb0879de02c5a6ff789b78",
+      "dataset_fingerprint": "9041612242a0f6d124b3017bb079f6034eaee26976220aa611f0f076f680d38f"
+    },
+    {
+      "date": "2024-04-22",
+      "file": "2024/04-22.jsonl",
+      "examples": 240,
+      "sha256": "fa6c9c5ec9a9ef2063adead1a16d7f9f47174b1a7db90587e98b3c31fbaa2559",
+      "dataset_fingerprint": "aae07ddaa2038ae363bb39c002ed0c77fed2a45456eb1af49e553f8a60b69aa6"
+    },
+    {
+      "date": "2024-04-23",
+      "file": "2024/04-23.jsonl",
+      "examples": 240,
+      "sha256": "1dfa6b7f71b6ff217a74028daef2e43651ef5f213675356ef5a55f982c7512b5",
+      "dataset_fingerprint": "dd3fc22dc49fe359aab4bcf479859df20a96a676adbea997230a73d1f9e2220e"
+    },
+    {
+      "date": "2024-04-24",
+      "file": "2024/04-24.jsonl",
+      "examples": 240,
+      "sha256": "9344ad0455d80c2c86ce74ccfed87c17efcaea9acff5df8515950e22d580bc73",
+      "dataset_fingerprint": "bba6da7a7107fa3ac7afc1223cdda6f3901a25bf32a4860e8ff275c0bbf9471e"
+    },
+    {
+      "date": "2024-04-25",
+      "file": "2024/04-25.jsonl",
+      "examples": 240,
+      "sha256": "f6424b85fb7cab32a7a3d870ab8a69c45cf86859e594d7b8b3e8fe2264ba0fe0",
+      "dataset_fingerprint": "4e256c20ae62a63020bbc6ba68733dd569dbfef0b535b3bf4e961d5d8eb3a8b8"
+    },
+    {
+      "date": "2024-04-26",
+      "file": "2024/04-26.jsonl",
+      "examples": 240,
+      "sha256": "88bcebc2564b7fe350ef75a86e36340cffe6e830c2aa07363a170378bb35004d",
+      "dataset_fingerprint": "4264680bab454e3b009dc5eda9c54095c0b0be03f4d36140794fbd2bc1f8450e"
+    },
+    {
+      "date": "2024-04-30",
+      "file": "2024/04-30.jsonl",
+      "examples": 240,
+      "sha256": "594187be05e1adcae4b2d3225cd2f3217efaacd5a6272ec175e22a4d3b31a7f0",
+      "dataset_fingerprint": "a60adb98597bdb15f0b80172e8e96c8682ae9c1c71ecf6d42923da4ba4a02652"
+    },
+    {
+      "date": "2024-05-01",
+      "file": "2024/05-01.jsonl",
+      "examples": 240,
+      "sha256": "42386cf23aa52e7d6e73e3715e1c9259d049d60e60e4d12d3836070d24bb445a",
+      "dataset_fingerprint": "7b1f68d03aeca6ab8a2d27d5da7628a86275a21ee5b48a44af1b59fab6016ea4"
+    },
+    {
+      "date": "2024-05-07",
+      "file": "2024/05-07.jsonl",
+      "examples": 240,
+      "sha256": "617569a867d3aa29d76aaa38818f5da6cfcb8d13e43ebbd09495361fa2a177d6",
+      "dataset_fingerprint": "eb78714168991eeceffb50c69097b57e49e141edc3601e07e6641b49af95e494"
+    },
+    {
+      "date": "2024-05-08",
+      "file": "2024/05-08.jsonl",
+      "examples": 240,
+      "sha256": "124f76f7f8a47fad14e46555dbb58bc0bb4bcd2bf3d70f74ae81b7d69acdec11",
+      "dataset_fingerprint": "59ff4136db2265fcdc0f55439123f9731af52d2623b95a7c429ca2f95ce495ba"
+    },
+    {
+      "date": "2024-05-09",
+      "file": "2024/05-09.jsonl",
+      "examples": 240,
+      "sha256": "58aa7ae368fe84aad3b5f84e364f0edc64694d4c1a7113e6779f66100f48cfb0",
+      "dataset_fingerprint": "19a22cd321e50a1f4f6252904814c7ed41bfa8dd8cce368ab0816b043763a2c5"
+    },
+    {
+      "date": "2024-05-10",
+      "file": "2024/05-10.jsonl",
+      "examples": 240,
+      "sha256": "dc77b81f489818890dae2b089239fcc36ac2e5a4de601f1050921d4937cc68b6",
+      "dataset_fingerprint": "ff830cafaa35add0a0411eb2f6897606ccf02a334e3f341103f7acc9e6e6cc61"
+    },
+    {
+      "date": "2024-05-12",
+      "file": "2024/05-12.jsonl",
+      "examples": 240,
+      "sha256": "681f9b67b75b80304a61d1945059a6bbd44dc2c37448f565a27d805dd61bb952",
+      "dataset_fingerprint": "8dfe2f6cc10342fb793792dc0fc85e9cb102304de3ab12844c13068e6db2e005"
+    },
+    {
+      "date": "2024-05-13",
+      "file": "2024/05-13.jsonl",
+      "examples": 240,
+      "sha256": "74a7406f679472dadc03064a1272c1b886ee86289336052efe76c447bc3f4ac8",
+      "dataset_fingerprint": "a0f8e1d39fac9700b67bbee85bf902d20d1766535cb6148a2c4fc6390e6c313c"
+    },
+    {
+      "date": "2024-05-16",
+      "file": "2024/05-16.jsonl",
+      "examples": 240,
+      "sha256": "b417ce2ecd521f402479c6a43ff1e1a028d1a991ce0fc6c6e95ffcc31e799419",
+      "dataset_fingerprint": "c884501d6ce8aacab6abff6b779b66ee6a0128bfea9bd4fc376e7725fb60c4cb"
+    },
+    {
+      "date": "2024-05-17",
+      "file": "2024/05-17.jsonl",
+      "examples": 240,
+      "sha256": "c67acc9d5f0b026607150fc38023b7c60957eac684e0f361af34491473a1254b",
+      "dataset_fingerprint": "4b4283eca268ff4739a647a8c98a1bce407d726031237ae0eeb22998f7e6225b"
+    },
+    {
+      "date": "2024-05-18",
+      "file": "2024/05-18.jsonl",
+      "examples": 240,
+      "sha256": "5d3c5e39d2b63bd4d5c63c896fc31a567879197e68ee4da3277ea194213d9e65",
+      "dataset_fingerprint": "1ba078bd43562ea6ffdb34ac050a89d6751162cd3f3e96bcd4413d3a694483b8"
+    },
+    {
+      "date": "2024-05-19",
+      "file": "2024/05-19.jsonl",
+      "examples": 240,
+      "sha256": "12a67e4102c853594789b528e365a86420912324a5763f093fa7c451c767ca9a",
+      "dataset_fingerprint": "2b07b025e6e38b2b0dad448ff12368fa5416f3b997de6090ed2840844f76cf00"
+    },
+    {
+      "date": "2024-05-24",
+      "file": "2024/05-24.jsonl",
+      "examples": 240,
+      "sha256": "33afcf7c401930cc8246a44590d5c18cbada9187ac392382c36914effb466ce3",
+      "dataset_fingerprint": "c3a83a1e07b000497ddecc2127036336d5a26aca3943ae523b0d95ee72de30ff"
+    },
+    {
+      "date": "2024-05-28",
+      "file": "2024/05-28.jsonl",
+      "examples": 240,
+      "sha256": "e01816da46e54748365148c05e901559e00ae70df190497d31d467c76deb626b",
+      "dataset_fingerprint": "fbadcebf80707569b54355e06a58518d83bd394f51bc6e48b2cb1fdc6e2f7f52"
+    },
+    {
+      "date": "2024-05-29",
+      "file": "2024/05-29.jsonl",
+      "examples": 240,
+      "sha256": "7234a3fdb72e85bc6a556246269d18652e3152bcce773da76537a34a17edccb0",
+      "dataset_fingerprint": "c54f0b210b4cb6cf0de3859853914467d0624a07e7f3f714ea9c6944ba71fc8b"
+    },
+    {
+      "date": "2024-05-30",
+      "file": "2024/05-30.jsonl",
+      "examples": 240,
+      "sha256": "eb9bb13ffc1eb8efbf8c7d67d7e01840e8c42206a66b4b08dbe08f878066d556",
+      "dataset_fingerprint": "ab9cd46be1b3c95f21c1adec9d5e49979c794d4ebe924a2f61d78b43b2e7ad81"
+    },
+    {
+      "date": "2024-05-31",
+      "file": "2024/05-31.jsonl",
+      "examples": 240,
+      "sha256": "e33d83eba6395d459e9e7e6cf1a2d4222d540c32e7a8102e94c657244df5b515",
+      "dataset_fingerprint": "4ca1f73606229bdcdc5bfa40a6695af658e84e7785a0814304a168b858a25d9b"
+    },
+    {
+      "date": "2024-06-01",
+      "file": "2024/06-01.jsonl",
+      "examples": 240,
+      "sha256": "506d890c138480658de2a275931a53c14b5e11df78b7bb65bcc3cafe366bbc52",
+      "dataset_fingerprint": "8c39b868d4fa925459fa16e80fc7967eb889a1b08884373ec9c0970f5504e9ca"
+    },
+    {
+      "date": "2024-06-02",
+      "file": "2024/06-02.jsonl",
+      "examples": 240,
+      "sha256": "f7a6edaf22d6704e9cf841e5be258baad38fb6a20f52525b0b88f5a98a9b918e",
+      "dataset_fingerprint": "25dada3876f27837535c911ca14beda7d9b6070cc3119278168031afc4cba6af"
+    },
+    {
+      "date": "2024-06-03",
+      "file": "2024/06-03.jsonl",
+      "examples": 240,
+      "sha256": "798f03e35c564858952530090b05c5278e0f0ddc54f2d02293c8e79e8d590c6f",
+      "dataset_fingerprint": "9718134191cca37a412cb41c5460e6ea3e9820ce59fb2d29bb6fe673f32e5828"
+    },
+    {
+      "date": "2024-06-04",
+      "file": "2024/06-04.jsonl",
+      "examples": 240,
+      "sha256": "d34358974372efa14bd8dd8757f4428de8bdea2575a11c5da15a688be32bdf5c",
+      "dataset_fingerprint": "b424293bac0cb71a7be34052be1c9543c49754633b484746f92ea242dff88da9"
+    },
+    {
+      "date": "2024-06-05",
+      "file": "2024/06-05.jsonl",
+      "examples": 240,
+      "sha256": "c06eecce780533640de1e98db81fbc6f4310e86a5efda094983412e3e32bef36",
+      "dataset_fingerprint": "31efdb047b94b1503d10df8e8f7c0c996a834a32c9f747c43f344a6ad6bf0144"
+    },
+    {
+      "date": "2024-06-08",
+      "file": "2024/06-08.jsonl",
+      "examples": 240,
+      "sha256": "d471ece79023be0a3ac052eecc99bac471dbd27ce24488345d7560ed8625f59c",
+      "dataset_fingerprint": "147d6c504e3e5ced05d7ab2df1f14e182d677ab4d57a41f645f94672fb6b674e"
+    },
+    {
+      "date": "2024-06-09",
+      "file": "2024/06-09.jsonl",
+      "examples": 240,
+      "sha256": "bcac88b0b5194f983263b8f4d6d959f0673f87d92c3e7757c9ef17b491d8a7c0",
+      "dataset_fingerprint": "3697ada5f965e65d9cbce78f81bd9b48a50fe40532f47a03f5fdfe363dde0e80"
+    },
+    {
+      "date": "2024-06-10",
+      "file": "2024/06-10.jsonl",
+      "examples": 240,
+      "sha256": "23d9bf97b46f220520c1a068c1fabb5f6d38d270c7fe85ebeff52122f993d44b",
+      "dataset_fingerprint": "ce5fae4ebe88a2ba92baf7621c42ba58f6c9410438ef4cc6222af52d881fc07d"
+    },
+    {
+      "date": "2024-06-13",
+      "file": "2024/06-13.jsonl",
+      "examples": 240,
+      "sha256": "745da21fcad941501f69732daa6641159ffbad75a69c7d8e4fdb5bf311e2ca5d",
+      "dataset_fingerprint": "0a3b31f4121789ef183e81530fe31436f8ec2c2ed269ed9ce1ec4933dd3d7739"
+    },
+    {
+      "date": "2024-06-16",
+      "file": "2024/06-16.jsonl",
+      "examples": 240,
+      "sha256": "82452243a2ca439998b79f54124f008cd83eddf6afa9de137431360b63a77e9b",
+      "dataset_fingerprint": "88eb2f51a01d06cc391a7f3f4a0f4c1b917729323d6fb39e399211e754d5148f"
+    },
+    {
+      "date": "2024-06-18",
+      "file": "2024/06-18.jsonl",
+      "examples": 240,
+      "sha256": "cc62ad101266efe6917f40a2d668d289dbb34f235f1608055ff734312be51a0d",
+      "dataset_fingerprint": "9f9ffe0010bf3e0312393dd24bcfd94c30f265884421cb859b8c749eb0ae056b"
+    },
+    {
+      "date": "2024-06-19",
+      "file": "2024/06-19.jsonl",
+      "examples": 240,
+      "sha256": "fe2cfb1f8c76a0067df18c90f34b43e3c2c38c1ede6d1585c8cbd725d5a9f96c",
+      "dataset_fingerprint": "00fff2bf1beab88e0362b7845e54707fa647bbc01799b125c747847ffc1452f3"
+    },
+    {
+      "date": "2024-06-20",
+      "file": "2024/06-20.jsonl",
+      "examples": 240,
+      "sha256": "e9f2c0a26ca5a88f74ca7a2c9f0d65334ae918d506cfca0423d4a0176fba82c2",
+      "dataset_fingerprint": "e4dec781dc751af1ebcd16ac8adb5f09d072a14c62773a133214769139d8b37a"
+    },
+    {
+      "date": "2024-06-23",
+      "file": "2024/06-23.jsonl",
+      "examples": 240,
+      "sha256": "1b2dad94dfdb6c55d98c076b6d9962cd99bc82b73398e9217972e3bc7eef98a1",
+      "dataset_fingerprint": "7da1d729af6cab5d842017b40a63cfa3313c51057603db01308d3aa02309873e"
+    },
+    {
+      "date": "2024-06-24",
+      "file": "2024/06-24.jsonl",
+      "examples": 240,
+      "sha256": "8cf417ba2ddca8a32ce8dce287c73653d60cf3c9cd1c5308adae3aa504fc7536",
+      "dataset_fingerprint": "0f4761400b56b6a23939abd0b33a946c81d828c816acfa47df6cf120b774ecb4"
+    },
+    {
+      "date": "2024-06-27",
+      "file": "2024/06-27.jsonl",
+      "examples": 240,
+      "sha256": "921ea7c63eafb62997348ffdc57bb238cfb5cc9dcae43830f18e5420425352f1",
+      "dataset_fingerprint": "3d37688f08911af3c1a1dfeac247ed8aa3c2ef016363d1297ad51239332b7ef9"
+    },
+    {
+      "date": "2024-07-01",
+      "file": "2024/07-01.jsonl",
+      "examples": 240,
+      "sha256": "8a4218052e7286b82202726d21172ccf097896b8df49eb921663dc45b72f1373",
+      "dataset_fingerprint": "c6831ae81128623a89d58d57af7158d064fddbe3863ceba863f4ef2f42e90c33"
+    },
+    {
+      "date": "2024-07-05",
+      "file": "2024/07-05.jsonl",
+      "examples": 240,
+      "sha256": "3fb2ded886e33c264f84d97ab2bc014ba33b3688fdb60c4dacc1e9c10ca91d93",
+      "dataset_fingerprint": "ff57972d5f3728131c7f60149304348d1755edc8680bf92ea96b772445e3ca78"
+    },
+    {
+      "date": "2024-07-09",
+      "file": "2024/07-09.jsonl",
+      "examples": 240,
+      "sha256": "3c7ca3aea745e973808de4f1a0d65bc39dd062d616cdf4edd3d88e0e398c52e0",
+      "dataset_fingerprint": "f7884ce71bcfcc976d5ab47c5aaf7e1ecda53c776239e9f0338e0018659838c4"
+    },
+    {
+      "date": "2024-07-10",
+      "file": "2024/07-10.jsonl",
+      "examples": 240,
+      "sha256": "43259160ee8724a8cf212e03d8ce7ecb038486c9fccb826dd8f1de3b5d28e465",
+      "dataset_fingerprint": "558c26cb7221168d7fe41648d7dd1fd6e709f208ad2572e2485b304f4a537635"
+    },
+    {
+      "date": "2024-07-12",
+      "file": "2024/07-12.jsonl",
+      "examples": 240,
+      "sha256": "853cfea372d8de89bead397c63b2ad3313799d06bb32eb59acd81c9665c5ae80",
+      "dataset_fingerprint": "67d535e52360fdf01789084269e9f1e267d2ad08517d2b37c16d55ee4db4f3cd"
+    },
+    {
+      "date": "2024-07-13",
+      "file": "2024/07-13.jsonl",
+      "examples": 240,
+      "sha256": "c8f2166d6f6e0406fea39ce956aed37966edfd6f21545daef681a012fb9041a5",
+      "dataset_fingerprint": "418ee6184adba8e7dd8d6837236e28a7765a8eeaff1e1b4b1169242970788995"
+    },
+    {
+      "date": "2024-07-14",
+      "file": "2024/07-14.jsonl",
+      "examples": 240,
+      "sha256": "1bce3501b17758145132ca4369dc9a010c609ef351d98419a66d42f80dde0b31",
+      "dataset_fingerprint": "0395b7d4e21a9bce39e3174ad9d9879a76805602a85c2c6835ef0c82a40635ae"
+    },
+    {
+      "date": "2024-07-15",
+      "file": "2024/07-15.jsonl",
+      "examples": 240,
+      "sha256": "a0b2e4f5a459e791b6331864661e353d02f6399592b924fb53806d271b70af64",
+      "dataset_fingerprint": "64af40421277094ab1cbbdec8ec1296678a6b219a714877d9985c4a7ebf019c6"
+    },
+    {
+      "date": "2024-07-16",
+      "file": "2024/07-16.jsonl",
+      "examples": 240,
+      "sha256": "363e34ea9e8f14dfa5c2ffd2b1bd68860ebe6de9fa4e4598fc3ac14828ae9086",
+      "dataset_fingerprint": "2924b8303c9da88dd395b5a957080aedc48033e1c1c783086d50c74c8ebaada7"
+    },
+    {
+      "date": "2024-07-17",
+      "file": "2024/07-17.jsonl",
+      "examples": 240,
+      "sha256": "f7096592b9638768f32953827c411073bad0b2c76a18f3b8633c3a7a2c1f34d1",
+      "dataset_fingerprint": "823354f6aec9c7409627f28e7718d81ecb108ada8e5094f91f164d7d9acfc477"
+    },
+    {
+      "date": "2024-07-18",
+      "file": "2024/07-18.jsonl",
+      "examples": 240,
+      "sha256": "7eff994e4c8cb409e7cc9c2e74a3cf5cd87e9feb0baf95b1ab53548cb4fbeb79",
+      "dataset_fingerprint": "cf6439427cc71db7bf417736f99f1eacf00e2dc5c43b8837eef01e096233b00f"
+    },
+    {
+      "date": "2024-07-19",
+      "file": "2024/07-19.jsonl",
+      "examples": 240,
+      "sha256": "8e19d2f3a190b8603aeb962eede7f80883c0a0b3e49ba0631f62a0e63753a255",
+      "dataset_fingerprint": "e32e6319085027bd1ce80d145291054e8aa8229c36a660676977ca081379c393"
+    },
+    {
+      "date": "2024-07-20",
+      "file": "2024/07-20.jsonl",
+      "examples": 240,
+      "sha256": "836703b0541d25b82f9409cb7053422df8089029d068d43981b196a4b6075227",
+      "dataset_fingerprint": "d4fbcf9cc1c81d0f3c70e5c067846faee52473625636e7fea8005e5cdf9d5b14"
+    },
+    {
+      "date": "2024-07-21",
+      "file": "2024/07-21.jsonl",
+      "examples": 240,
+      "sha256": "93a22be61fbe9b647849ca03919d998957029d697d57058db5d5ffc106a06a56",
+      "dataset_fingerprint": "33d97704de85d14fbe4d6b52317fe24edd4c8507d57f129b1dc21fce0c4cc58e"
+    },
+    {
+      "date": "2024-07-22",
+      "file": "2024/07-22.jsonl",
+      "examples": 240,
+      "sha256": "51a41dbb4f527d698f27f736d8b4d829bafe70ebac9b74994b80d5cba74f8953",
+      "dataset_fingerprint": "5501286b2d911337e0ec280c033da24fb76b4d26c500f3b6d5764e3b18a700b7"
+    },
+    {
+      "date": "2024-07-23",
+      "file": "2024/07-23.jsonl",
+      "examples": 240,
+      "sha256": "34f5550e4ac95dd44c6609e998c5d8916d3cec601523663bc12dce498c95c26c",
+      "dataset_fingerprint": "7779c79b334a7954e988e7307ae71a5ebabc677fc6ae18fea1b6dff5fa0cdb8f"
+    },
+    {
+      "date": "2024-07-24",
+      "file": "2024/07-24.jsonl",
+      "examples": 240,
+      "sha256": "0269bf4def561c967d32b549c1c3830f49045f07aac1945694f4105fb75e8a6a",
+      "dataset_fingerprint": "cb37ca34f83919274bb8ebb59d1fd066158d83118cdc8b54b9ea1c9e1f86f08a"
+    },
+    {
+      "date": "2024-07-25",
+      "file": "2024/07-25.jsonl",
+      "examples": 240,
+      "sha256": "ce2e33458eb7e66355680d92348379105a1fce33e7d76071672f860ec66473cc",
+      "dataset_fingerprint": "3ae2b2902fb49705d0ec416aafaad7b2823d85cc4f4c9866f6b1e4bb1a649069"
+    },
+    {
+      "date": "2024-07-26",
+      "file": "2024/07-26.jsonl",
+      "examples": 240,
+      "sha256": "8cf5ed95abe4ccf49f1471384896793b7db782c932e18a0e442264941d9ef02c",
+      "dataset_fingerprint": "fc0215c511ab3477fab17eeff5f629a6c258a732e78c455ec4019a9908419211"
+    },
+    {
+      "date": "2024-07-27",
+      "file": "2024/07-27.jsonl",
+      "examples": 240,
+      "sha256": "9fe46e9f05b85c4089c270a97b7cc5fdc473fa6fd45a83a4bc3aa40463f164b8",
+      "dataset_fingerprint": "f553230b3bdde93d04fccd5bf545c5cf6df2f7d335a20405367c4af5f1fda7bd"
+    },
+    {
+      "date": "2024-07-29",
+      "file": "2024/07-29.jsonl",
+      "examples": 240,
+      "sha256": "f67e808b104930a1e93f168fdbef662aa46135bf7aedd44060ad18422ff3963d",
+      "dataset_fingerprint": "78200c04963424df43c1072a0bc86277f2bac6d43347c4440fa759ef34ca4ea5"
+    },
+    {
+      "date": "2024-08-01",
+      "file": "2024/08-01.jsonl",
+      "examples": 240,
+      "sha256": "25544b14a51c2180b835a97b59df6572f84f42cf8f29827550460143a33a53c1",
+      "dataset_fingerprint": "6a89d1a41eaac5e4dc6df12b71188101e79ea8210893e8dbe2365d1972d85a1e"
+    },
+    {
+      "date": "2024-08-04",
+      "file": "2024/08-04.jsonl",
+      "examples": 240,
+      "sha256": "fb270cd961f421da3360781b437f136cc6676450b47500009f312504184dfbeb",
+      "dataset_fingerprint": "c97135b3e8505c39e502d3c4d6b42425063c31ac3c853e59d74aabfac68989f4"
+    },
+    {
+      "date": "2024-08-05",
+      "file": "2024/08-05.jsonl",
+      "examples": 240,
+      "sha256": "6e7919534658e6e5240824f7c9ea6ddf4bfb2a3a285e9533dcf6ec577742b5ee",
+      "dataset_fingerprint": "72ae477c814ecc196fc1d0bad35a9730f1f7e92f4331edf9a7e24447fb084bf1"
+    },
+    {
+      "date": "2024-08-06",
+      "file": "2024/08-06.jsonl",
+      "examples": 240,
+      "sha256": "c84eb987a6934363b73589f5a37ba4aa5821094adb1be11a9f4c30b52fbca8a5",
+      "dataset_fingerprint": "1577415085548429cc57fba087a09099b2c4f4625058bd6c3bfe4092613c3133"
+    },
+    {
+      "date": "2024-08-07",
+      "file": "2024/08-07.jsonl",
+      "examples": 240,
+      "sha256": "1e7ee01ef2f0347428a25b3590f9a2b26224f2254cfdd2beae6419b7ff0b2cc8",
+      "dataset_fingerprint": "632e2ca370f5c6ee3cff05bb2f6c872323795f7cf87b12dbff12d71923422fe2"
+    },
+    {
+      "date": "2024-08-10",
+      "file": "2024/08-10.jsonl",
+      "examples": 240,
+      "sha256": "e1f5bb2cc5c047c8095ebad56f8dfeaef128ee0356739c6ba2feb5e78b3d0c37",
+      "dataset_fingerprint": "afbd618be7b67ee65738c15cc5b3660f9c01864215020e2e02ba3d89d02bf656"
+    },
+    {
+      "date": "2024-08-11",
+      "file": "2024/08-11.jsonl",
+      "examples": 240,
+      "sha256": "c03ef69baefa077f5fc9d07997d9e7daa524a21afd350b94091c9aef27f9128b",
+      "dataset_fingerprint": "9b0f46762ec96f2b6697b7468910c406b44768db60520fe2fc32deba5aff3e3a"
+    },
+    {
+      "date": "2024-08-12",
+      "file": "2024/08-12.jsonl",
+      "examples": 240,
+      "sha256": "7cf333db139101efa29db47dd548306a95991da5da382c14e17b5a3e12c06076",
+      "dataset_fingerprint": "fe1ae1babd3d06a90ad3c746584aa10af0019160d1043126e3337b26b9bbfd31"
+    },
+    {
+      "date": "2024-08-13",
+      "file": "2024/08-13.jsonl",
+      "examples": 240,
+      "sha256": "1500bdd8946f6ddaa540f45f0daf278b2c861b0e9b5f4168fd584a1dad3a29e6",
+      "dataset_fingerprint": "6f1779df641e0f4f284c6ff14af032a3eb561e0d73c78041302f606742ea428d"
+    },
+    {
+      "date": "2024-08-15",
+      "file": "2024/08-15.jsonl",
+      "examples": 240,
+      "sha256": "77c50e84c144df76a96f2eab7892aedef273df7bd824a6abb0cf85eb4b5c4edb",
+      "dataset_fingerprint": "572f9605dc10a24221280a2cd395bff3ae0bae3d1ef59f3c0f97b3ea41566a6b"
+    },
+    {
+      "date": "2024-08-16",
+      "file": "2024/08-16.jsonl",
+      "examples": 240,
+      "sha256": "e955ad2fa2802919abaa24fd467f851f2fb1c3196920c3f0ba5979ace2938cba",
+      "dataset_fingerprint": "9f0b5f1dedd80d2a5b92d57b3d38bc65fee96e0c08c504894fb84f19d240355c"
+    },
+    {
+      "date": "2024-08-17",
+      "file": "2024/08-17.jsonl",
+      "examples": 240,
+      "sha256": "bfeae2ce3a3d4358ebbb7f7c133aa66f72f49990057d3b91699c052212e5eece",
+      "dataset_fingerprint": "0ee9474ccfbba0fd841c38fcff9e43d5219f2e16eaf0c5aa6a6e736240f686d9"
+    },
+    {
+      "date": "2024-08-18",
+      "file": "2024/08-18.jsonl",
+      "examples": 240,
+      "sha256": "384aecfe0cfa637dd6d0b1bb37de692fc6755fd0c3ffd0be689a90e4cda9d6d8",
+      "dataset_fingerprint": "22dd5379044b2b172b51ecab4a2796de11d0293280fe2d2a8fad81beba3b39a6"
+    },
+    {
+      "date": "2024-08-19",
+      "file": "2024/08-19.jsonl",
+      "examples": 240,
+      "sha256": "c10bd1d801340ca714b5090b83d88ded9af03f96fd3a359d41dfb8b28be2bfba",
+      "dataset_fingerprint": "aa3cda77c6d52c11f847e1889e3f823bde8c7a0daa9b1e512b5ad82b86e453cf"
+    },
+    {
+      "date": "2024-08-20",
+      "file": "2024/08-20.jsonl",
+      "examples": 240,
+      "sha256": "bfafccc4b3c506d7b8b71b8ab546f684906acfa7d6bcbb7da028ddce8c014ecc",
+      "dataset_fingerprint": "61864a6ea558ec6c4021f6a3c855b63b18c3497e98d6115689386babaaa7d284"
+    },
+    {
+      "date": "2024-08-21",
+      "file": "2024/08-21.jsonl",
+      "examples": 240,
+      "sha256": "8d4901319403c11bc41958ee5e46ee9e3b2589a7cac56397f937f46146600687",
+      "dataset_fingerprint": "ddf6a1cfe4a56596c1b7f3c97ef7a50042a355489d7dac12f176f99ee29f0428"
+    },
+    {
+      "date": "2024-08-25",
+      "file": "2024/08-25.jsonl",
+      "examples": 240,
+      "sha256": "03aa32efce538ea7b20629f84edef74918322d2a086da0bc3a8713c5de250890",
+      "dataset_fingerprint": "e669c402c1775a2b371284ac8c4590338bb0793fe972c80e74c94733013eac6e"
+    },
+    {
+      "date": "2024-08-26",
+      "file": "2024/08-26.jsonl",
+      "examples": 240,
+      "sha256": "2447d122a5d6c28157b3277e53c07c747d8ec810b87ea39fe5bc1ea0db0e9e51",
+      "dataset_fingerprint": "bdd9f17eb60f9e1f838d1551835428b0dd03c84796b192e879ea8e05195fe93b"
+    },
+    {
+      "date": "2024-08-28",
+      "file": "2024/08-28.jsonl",
+      "examples": 240,
+      "sha256": "a67dd70ed6749ac019570297b2cf5451df20323c31ebe3a9469e1ddbe1d3a7a6",
+      "dataset_fingerprint": "f39db8c8e1b61d6b875c288c73b4a384d7fae8def587405b6488cb75d15faf2b"
+    },
+    {
+      "date": "2024-08-29",
+      "file": "2024/08-29.jsonl",
+      "examples": 240,
+      "sha256": "0c0c752c165d99e32330e8515e65814d7212c063025426c0a99abde9b0cb4919",
+      "dataset_fingerprint": "aba8f4aaeb8b75f4084d6d3bbc80c38b4ae05041beda6d32b617d94127e6fc75"
+    },
+    {
+      "date": "2024-08-30",
+      "file": "2024/08-30.jsonl",
+      "examples": 240,
+      "sha256": "1625a86e01753b89425a10a43506eeea6412f4b62edb09cfded4935c8e36a9da",
+      "dataset_fingerprint": "01731b5dd4a487a93e4b6e334d0d5f65eb8eb63d5a716f4ea143def49452de80"
+    },
+    {
+      "date": "2024-08-31",
+      "file": "2024/08-31.jsonl",
+      "examples": 240,
+      "sha256": "179be3b7aebcdc34d5d22e1b37b28769552f98982f0a646d684f30d35d2c850a",
+      "dataset_fingerprint": "b197c8ef9c2585218c48517a6edee6853317cc5b704cfee9a1c702585168bddc"
+    },
+    {
+      "date": "2024-09-01",
+      "file": "2024/09-01.jsonl",
+      "examples": 240,
+      "sha256": "f51cd07374ccee1e1cc1f524fe31f80b650341c68609f18b8e65023ae8232114",
+      "dataset_fingerprint": "d31e6b785118cf651d2fc468da2d49f25e0e1ef232cba035ff499e1eadbf51e0"
+    },
+    {
+      "date": "2024-09-07",
+      "file": "2024/09-07.jsonl",
+      "examples": 240,
+      "sha256": "042cecf389216812384b7bc0c3c240c22feabb4fee45376797df49aeabb5649f",
+      "dataset_fingerprint": "2b0ea95c777d762184dfe25064565aff58e389b44453a411862029ddd04b69b0"
+    },
+    {
+      "date": "2024-09-08",
+      "file": "2024/09-08.jsonl",
+      "examples": 240,
+      "sha256": "a63113dfb0a3eaa8e3f2e0832a6b45bf43be7ccd26f82ec97bc67c19667a5670",
+      "dataset_fingerprint": "323080bcb181a87c8b441388c8306a2ea4ed01f33c61f85b66bf3f4774a15030"
+    },
+    {
+      "date": "2024-09-09",
+      "file": "2024/09-09.jsonl",
+      "examples": 240,
+      "sha256": "2be5548bba8c18094ec2b32abb5a1b5217132ead8b890c823c17ea2bcba945f9",
+      "dataset_fingerprint": "381450aa4526aeac4af0c2fd09108aac1928ca6d8f81bd2870a0ddb6d344c7a6"
+    },
+    {
+      "date": "2024-09-13",
+      "file": "2024/09-13.jsonl",
+      "examples": 240,
+      "sha256": "d1bc41ebbaed1ffe5f6fb9b5be493132416ec01aeea2abbc73644a0b1b907f0a",
+      "dataset_fingerprint": "cb200951c81516bae41ab573ee8279dcf020ed090e28ee443562ec2abf734816"
+    },
+    {
+      "date": "2024-09-14",
+      "file": "2024/09-14.jsonl",
+      "examples": 240,
+      "sha256": "f3bdbcde885528b0d5e6aef79e1ae1359a7b1b8c799e16c2e9f70ac06237033e",
+      "dataset_fingerprint": "d7448de9f787082ca1d5fb5c5d2cde10653f4ad4b77fbc729be3363955b0d515"
+    },
+    {
+      "date": "2024-09-15",
+      "file": "2024/09-15.jsonl",
+      "examples": 240,
+      "sha256": "ff03a204b14a26f16e22505a7165d96bddd2bae781ebfba55dade6e1d72ac5f9",
+      "dataset_fingerprint": "3dd4e9f74d21779090410985ea7ca9564549ba847623845f42b69aaf60405045"
+    },
+    {
+      "date": "2024-09-16",
+      "file": "2024/09-16.jsonl",
+      "examples": 240,
+      "sha256": "923724a67d2745570d4ea2a041401ff45fe9acaf7be52300ed5b5a7a7a086a46",
+      "dataset_fingerprint": "68abb6bd0621a048c778a8865986e1135f3f99ccd4a3d9ec6ef1aef94b0f21e3"
+    },
+    {
+      "date": "2024-09-17",
+      "file": "2024/09-17.jsonl",
+      "examples": 240,
+      "sha256": "699d56a4d1a44043a517844e6af8f0149f4edd8258ed1222ebb4146badd52141",
+      "dataset_fingerprint": "ec4fbfc4d99060741faf3a8d1a8b6e1fdf74408afeecb8353596afc34554abb5"
+    },
+    {
+      "date": "2024-09-18",
+      "file": "2024/09-18.jsonl",
+      "examples": 240,
+      "sha256": "e93bcd2471eccd2028082da332912ab4fb3cd8b3e7164d35b02b0fc9325aa42f",
+      "dataset_fingerprint": "6e274a5672f78586d980a092ff7ee71fa6dd721f1e0c2a0ce987d9ed581a75ba"
+    },
+    {
+      "date": "2024-09-19",
+      "file": "2024/09-19.jsonl",
+      "examples": 240,
+      "sha256": "cf10d2283bf8b5f407e3e3121402e8e26bc7e02c57c1fff21bec59047c521a0c",
+      "dataset_fingerprint": "6dc967f3fd8f09be0c2665d76dec9dc4124236866525d7a3440e0b12b8de0c59"
+    },
+    {
+      "date": "2024-09-21",
+      "file": "2024/09-21.jsonl",
+      "examples": 240,
+      "sha256": "e94009f6feb56796807211cc0312adb1c7fce6e7a8fffb5520cf8c1fb2e6a864",
+      "dataset_fingerprint": "4545b6990897cf7020f1e128d849c100e5dba1b5d8b6316f2d6b79e3440e7d57"
+    },
+    {
+      "date": "2024-09-22",
+      "file": "2024/09-22.jsonl",
+      "examples": 240,
+      "sha256": "cd222c4c7ff3c1a5cf0a1b3e2f70530c2763c4824b704462b2f37bdfca938bcf",
+      "dataset_fingerprint": "6b732a9b4d81801335b81bf562b28cd176088633c4d95fc972f50cae890cc165"
+    },
+    {
+      "date": "2024-09-24",
+      "file": "2024/09-24.jsonl",
+      "examples": 240,
+      "sha256": "c54a7a8018a0c7e8d51eeaa4f83f639c3517ab245bdfb1a79904155a34c98d94",
+      "dataset_fingerprint": "2c69714a0be025e59c27e608950893a08d0b3a31fdb333d89bd660f0a0ebad8e"
+    },
+    {
+      "date": "2024-09-25",
+      "file": "2024/09-25.jsonl",
+      "examples": 240,
+      "sha256": "ae3538446a7f1c2f82a0b04679cd8bb6c3d6626b56bbed0772713c18f98a2280",
+      "dataset_fingerprint": "a26b8152a233f7e006bed61198e362ef0f3863c0b47ec5cf94bca6346d86a740"
+    },
+    {
+      "date": "2024-09-26",
+      "file": "2024/09-26.jsonl",
+      "examples": 240,
+      "sha256": "2fbaf195d6faeed95c16adc4bbeb6374d7c092586b5579cb23271fb36fc3ca7a",
+      "dataset_fingerprint": "c085df4f39156b701dbf414bb5ecf0a2b66978668207ca0653082fe4d273025d"
+    },
+    {
+      "date": "2024-09-27",
+      "file": "2024/09-27.jsonl",
+      "examples": 240,
+      "sha256": "781c45a5cfae5d560d97dd7a8ce13b6ab048e21dcf3a5485420e850f4eda6721",
+      "dataset_fingerprint": "001a738c389b23fb05301de3d237adc0ee2b1ccd7eb18336f1a24aa6721d5ea8"
+    },
+    {
+      "date": "2024-09-28",
+      "file": "2024/09-28.jsonl",
+      "examples": 240,
+      "sha256": "09ead83d375f9426a84b24d832bae4f933700c57e2a29b4667382832c335cb38",
+      "dataset_fingerprint": "6c798a468ef9373c9ecbfbe54f316edfa59ba88e5f81cadef22f744b9f083fa4"
+    },
+    {
+      "date": "2024-09-29",
+      "file": "2024/09-29.jsonl",
+      "examples": 240,
+      "sha256": "b16e3f0f3d194bc0def5f41cdcef1311ce6c4e146cf59e03c20ea17813bf56d5",
+      "dataset_fingerprint": "3ea02fb9bf34479f9889634276aa82e614a858272aa4dfc89468c2802afed6cc"
+    },
+    {
+      "date": "2024-09-30",
+      "file": "2024/09-30.jsonl",
+      "examples": 240,
+      "sha256": "fca3b55280abb7a9692f86698ed79144a4de97f351e884e83b8f354345e70f98",
+      "dataset_fingerprint": "ebe9708fa310f737ab6732d20913cf9d88554acb0a3c9c23eff441b5dbe5afc0"
+    },
+    {
+      "date": "2024-10-01",
+      "file": "2024/10-01.jsonl",
+      "examples": 240,
+      "sha256": "63d0910141a2299c2d85cd7f621741d58cb04aecda81c549597770fefbb37e3f",
+      "dataset_fingerprint": "3b9dcf81785ad33902d141762e559b1e60742f7bd43fcd0fcc5546fa45734030"
+    },
+    {
+      "date": "2024-10-02",
+      "file": "2024/10-02.jsonl",
+      "examples": 240,
+      "sha256": "a1a004fb10777725a9568a181d68be644e3e6eed6ee46c66291a19932005f66f",
+      "dataset_fingerprint": "bb8dd62d5a0f6871c1e47926c7f7acc18710dd34e67e350ce302cce26bd1dc88"
+    },
+    {
+      "date": "2024-10-03",
+      "file": "2024/10-03.jsonl",
+      "examples": 240,
+      "sha256": "cf975ad7a88689223548b4195a4e4ef4a076d9e59dfbfcf1b4182fa4d2fe9ad6",
+      "dataset_fingerprint": "758e20ca83f4e426e555ab91688e57bebc79d317de66ca0429e145ff077e43e0"
+    },
+    {
+      "date": "2024-10-04",
+      "file": "2024/10-04.jsonl",
+      "examples": 240,
+      "sha256": "2bff07ef0556626130e87e2a23ef01cbaad37b647778d5a76b360dec5cd95f41",
+      "dataset_fingerprint": "2a181459d4e8984a7de10a8307e65515072e43181836c768e3b34a83b27f1786"
+    },
+    {
+      "date": "2024-10-05",
+      "file": "2024/10-05.jsonl",
+      "examples": 240,
+      "sha256": "2a44a8c62c74919d308721075b83eef87717485441b10470e7b289b1ef9ee935",
+      "dataset_fingerprint": "83402cfb11a6950956d997e26228e8a05f40b26ac6679c522f445021621b8df1"
+    },
+    {
+      "date": "2024-10-06",
+      "file": "2024/10-06.jsonl",
+      "examples": 240,
+      "sha256": "7bdd43f26385d1eedc00adc1ac50132dfcabaf417d72aaa5a87f8389ede7b868",
+      "dataset_fingerprint": "ef73373498299241b400d6f979fece0d1022665d823c34a1fc6d0e2b6734a1fd"
+    },
+    {
+      "date": "2024-10-07",
+      "file": "2024/10-07.jsonl",
+      "examples": 240,
+      "sha256": "5b634a44aef3065ec7d207490100e57f8842849cd96bb7514a93694c48612e8e",
+      "dataset_fingerprint": "0cbe3b5f2c2d18925fce2ad7b8c31da78af28e7044e34569df19c4edc3b543e1"
+    },
+    {
+      "date": "2024-10-08",
+      "file": "2024/10-08.jsonl",
+      "examples": 240,
+      "sha256": "ead01b354afd1b3dbee1cc3c0f8a6d7f228d9e353f53b1920d566320489179d3",
+      "dataset_fingerprint": "e0dfbd11bd4e91fa09f8a2e698a4a9445724c9f9e2fe945b78d8a3f4771ee5db"
+    },
+    {
+      "date": "2024-10-09",
+      "file": "2024/10-09.jsonl",
+      "examples": 240,
+      "sha256": "9da2e67c4549c820a41ad4293e046a23984df60c1aec011595b6cc5687c761f1",
+      "dataset_fingerprint": "d6ad7a00a0884cb356664cbb052a89d147d79b3196628c7028d47b3ca58cc902"
+    },
+    {
+      "date": "2024-10-10",
+      "file": "2024/10-10.jsonl",
+      "examples": 240,
+      "sha256": "46052430dde88b3cc57afa085fdc1db8c98ec78c9d86a0f6b65fcd2ed43243fe",
+      "dataset_fingerprint": "8672da24c982e7a638eaa52e146387dfafae0b99f38b8f1ef8b23c7d3587c6da"
+    },
+    {
+      "date": "2024-10-12",
+      "file": "2024/10-12.jsonl",
+      "examples": 240,
+      "sha256": "4a5f9764502dd87fee876f93f02fdfaad38d10eb90a7714accbd5a1c8d72b968",
+      "dataset_fingerprint": "980949fb241fa925b82a1b480ce305fd8ea1292ce8865febdd2b15e1bfd25da2"
+    },
+    {
+      "date": "2024-10-13",
+      "file": "2024/10-13.jsonl",
+      "examples": 240,
+      "sha256": "09903ba2ec21af5707f220d1ff9ddb59b7b1ace3970136579def5f570570c0e0",
+      "dataset_fingerprint": "7c6d17c2fbf3d96871f1800045c65b1bcec5f345cf5d3097021b6e349aec4a0d"
+    },
+    {
+      "date": "2024-10-14",
+      "file": "2024/10-14.jsonl",
+      "examples": 240,
+      "sha256": "64b59ad52529ae7e41d2219e57d3c44f23f062bc0944d8af014b5f5237efaba1",
+      "dataset_fingerprint": "1e046a15de4f576746613e9308db18e6fd9fd75a75e60bbf5d454e8c1a6cbc3d"
+    },
+    {
+      "date": "2024-10-15",
+      "file": "2024/10-15.jsonl",
+      "examples": 240,
+      "sha256": "2c3c8f46eb3ca70c05256d7eff52d83a3edaad9684bea9fc55a5cb4dbe2146c2",
+      "dataset_fingerprint": "79d01580591d4bc1f5cba5e886b6b3f606ccac404660a9f03b691cfa4cddf8af"
+    },
+    {
+      "date": "2024-10-16",
+      "file": "2024/10-16.jsonl",
+      "examples": 240,
+      "sha256": "640d186c2011aac5b8f277448365d0e13c5f5d23fc7a0a584d00eb35167d6814",
+      "dataset_fingerprint": "17364436f93f1a33fcbdd81cc38191981fe3d125d59ef9e4129350d900ad4518"
+    },
+    {
+      "date": "2024-10-17",
+      "file": "2024/10-17.jsonl",
+      "examples": 240,
+      "sha256": "d4cb7d0d7d0239abfbd13e96043f394cbcb7c472a95acb9ec826fc8405ebe6a4",
+      "dataset_fingerprint": "46f694703d485b7240b0f3a79b44f3b0023dc396aaed413f2fc4fa4c4052c74e"
+    },
+    {
+      "date": "2024-10-18",
+      "file": "2024/10-18.jsonl",
+      "examples": 240,
+      "sha256": "b0b646df5035720a3084f63c37a3f99d2bf5e4f350fb387c25a8e978bbb8f6bc",
+      "dataset_fingerprint": "9791e0150ba39bd7db55a73bfd894214e7c9d990f38bc135c91382c2534ebdcb"
+    },
+    {
+      "date": "2024-10-19",
+      "file": "2024/10-19.jsonl",
+      "examples": 240,
+      "sha256": "9e71aa253fde83007b2131044204be6837be2c48640c8dbb113e1d8899aa5360",
+      "dataset_fingerprint": "b1ab10b1781a8f038e3bf98d2bccf3ee319348beabc3ca00bd3e5f81be8a4d0b"
+    },
+    {
+      "date": "2024-10-20",
+      "file": "2024/10-20.jsonl",
+      "examples": 240,
+      "sha256": "5ab4be7b2bcd6a1bcfd0547d381adee8b4947a3b6e74198aa02ff671523f6e17",
+      "dataset_fingerprint": "8302dcd3c497e441ef5a884f9b8d45ce8264e07f6397853b45de39e3cd3a3284"
+    },
+    {
+      "date": "2024-10-21",
+      "file": "2024/10-21.jsonl",
+      "examples": 240,
+      "sha256": "b994b38d53fb71b1bbea0de19ba4fab4d9c62739a09c5769c15af012d1bc7bd8",
+      "dataset_fingerprint": "7acb4904c9abaaa619af13cb3b4b41da9f82d3816058d279eb517c6a877eb8e2"
+    },
+    {
+      "date": "2024-10-22",
+      "file": "2024/10-22.jsonl",
+      "examples": 240,
+      "sha256": "5486904ce0f31c6f4c3b211bb61e69baf385493be40359adcf2ff81c0a5bb755",
+      "dataset_fingerprint": "d96a8de0a6b7e11a09ffea4c27e4f4dfd8af478b5aecd677f87854eb1d5a9771"
+    },
+    {
+      "date": "2024-10-23",
+      "file": "2024/10-23.jsonl",
+      "examples": 240,
+      "sha256": "78f799095c17623885b9be8f284c34f83d04f45025767ab2503929345252e960",
+      "dataset_fingerprint": "ca21fc901744812e9946d5d2cf6f912cd26fac4ce4947b483dd9ba363c98d0bd"
+    },
+    {
+      "date": "2024-10-24",
+      "file": "2024/10-24.jsonl",
+      "examples": 240,
+      "sha256": "21f7556212300ae811977cf99535aa6a9185c675ef72e22681d35fa92b27c153",
+      "dataset_fingerprint": "5bed6f08777771d3a9a8c651bc92d6aff6559af3a3d5f96f2f1ac01752f4b0ca"
+    },
+    {
+      "date": "2024-10-25",
+      "file": "2024/10-25.jsonl",
+      "examples": 240,
+      "sha256": "4ebdd72fb8230de3cfaa5bf062c00b01e42b7665a7a8a8fd5c8777df3a7ef4a1",
+      "dataset_fingerprint": "4c651d91928083fc1230c00909b1838993c8450398952f602458a0199c2b0609"
+    },
+    {
+      "date": "2024-10-27",
+      "file": "2024/10-27.jsonl",
+      "examples": 240,
+      "sha256": "d393ca4acaf2eeeb49aefeaae55bb618ea68562e24f86824bc6ca6d544e09a23",
+      "dataset_fingerprint": "ea22da27e04f338beaa99832c3f524bab0a40d2ed7bd3f7149eb779751450fac"
+    },
+    {
+      "date": "2024-10-28",
+      "file": "2024/10-28.jsonl",
+      "examples": 240,
+      "sha256": "ddc05d1a3303df25144414bebd442cfbb36a07c5a32f14e6846a1c84b910a34e",
+      "dataset_fingerprint": "20076c37e8bfceab2a5231e4330419fecfe3301ae23198e2d416b83950b81a31"
+    },
+    {
+      "date": "2024-10-29",
+      "file": "2024/10-29.jsonl",
+      "examples": 240,
+      "sha256": "9987a4ea91ac49564cc817399f492f87e72fc9f4c786562b155e9fde8956e55c",
+      "dataset_fingerprint": "419037e1bdb587570fb34ae9052967605b0056b5d75d8ab90ec1aeca41721845"
+    },
+    {
+      "date": "2024-10-30",
+      "file": "2024/10-30.jsonl",
+      "examples": 240,
+      "sha256": "1a6cf50616b62720ac98295368a59d528d5f8c7b085dc03dce37398649b776cb",
+      "dataset_fingerprint": "e829c991a69941d1102bb036b0ed341197afc4eabb9e20796b101f3446636a76"
+    },
+    {
+      "date": "2024-10-31",
+      "file": "2024/10-31.jsonl",
+      "examples": 240,
+      "sha256": "f01cab4f570f46922a441ba9a09de83e0832877dd91407b001db9cc6ffac056b",
+      "dataset_fingerprint": "6016c08382c25de4244383ecf5d47393848000ecef2b4666ae2923da792a2402"
+    },
+    {
+      "date": "2024-11-02",
+      "file": "2024/11-02.jsonl",
+      "examples": 240,
+      "sha256": "9a10f722ab759c26d82380cc144ffe99001460b34a90f567c9b8ad4006eb699a",
+      "dataset_fingerprint": "c34ba2a206304f350bad596e42696d06402521627196e2a9108b0051b2c64941"
+    },
+    {
+      "date": "2024-11-03",
+      "file": "2024/11-03.jsonl",
+      "examples": 240,
+      "sha256": "51247de95faf64527f6c616b7dbb721aeae6c5afc07d19e1e1777c5e6c8733a7",
+      "dataset_fingerprint": "5584c155c336bcb4359a58a1255531fa33cb6f995b0d115fe7ffd5fbe002ac27"
+    },
+    {
+      "date": "2024-11-04",
+      "file": "2024/11-04.jsonl",
+      "examples": 240,
+      "sha256": "7ffacf2bbc7eb86de05331d730d79c8d16b1440be0b7b60ce3c114dc304d26e8",
+      "dataset_fingerprint": "47f3151a952d4bce4345bdb0cd45c707fc27403ebf0cfbc4290b83d13e3353ca"
+    },
+    {
+      "date": "2024-11-05",
+      "file": "2024/11-05.jsonl",
+      "examples": 240,
+      "sha256": "fbd136112916999fa5ef2a98af55fa472971a1ccf95da5dd1a31cbd025e815f9",
+      "dataset_fingerprint": "ac7cb9c187bcd31f79ec361748c1ab1fdad6b5b8032c6657be002b133eab3806"
+    },
+    {
+      "date": "2024-11-06",
+      "file": "2024/11-06.jsonl",
+      "examples": 240,
+      "sha256": "c0096cc08fd115977a0cc2ab776f6d5441f7d7cce78bbf328de9c37fd43aaa2a",
+      "dataset_fingerprint": "1e8de82ecec3e2eafa25b9548102a367a15561ad2cdb32984a29f1b9668031a5"
+    },
+    {
+      "date": "2024-11-07",
+      "file": "2024/11-07.jsonl",
+      "examples": 240,
+      "sha256": "b1c150a794dd4ce5301d1db5d67a91e07b6f18cd0d21488381dd8406ec24d931",
+      "dataset_fingerprint": "929df3cf2894938e5b0424dc071374add54c8aab3cdf816b2a25d9b69637a6e8"
+    },
+    {
+      "date": "2024-11-08",
+      "file": "2024/11-08.jsonl",
+      "examples": 240,
+      "sha256": "4da2da54914ee3685955c99f20cfcc56361237f36fbaa99d77d539790cc36a65",
+      "dataset_fingerprint": "54bc0d03995784611b4c80e6248fdbcaff600654ed1b91f2c13317990061df26"
+    },
+    {
+      "date": "2024-11-09",
+      "file": "2024/11-09.jsonl",
+      "examples": 240,
+      "sha256": "e9e24431f8e7c17ce98dccd879427a303df43aad9abf87c683dc1392147f1a91",
+      "dataset_fingerprint": "46ca98ebb488e6ee174715f5b74d97f0586bb0e179f9424ac5ca946f8a40700f"
+    },
+    {
+      "date": "2024-11-10",
+      "file": "2024/11-10.jsonl",
+      "examples": 240,
+      "sha256": "65d74e751a3e5898824f6be229b02ffc4b873365f601d812cd39987847523a6d",
+      "dataset_fingerprint": "9baaecf8cbf71beec149b88ed800189bbd9fbfb306822cdd8a260c7e1bc1b023"
+    },
+    {
+      "date": "2024-11-12",
+      "file": "2024/11-12.jsonl",
+      "examples": 240,
+      "sha256": "bd3fa18f53e79037dc83fb3ec454da6fe475827fd116dddc3fd2ca386a1edc56",
+      "dataset_fingerprint": "0bc0c79803d8a342998e34a432220984542d6b89cfda540cffa0bf51c714a046"
+    },
+    {
+      "date": "2024-11-17",
+      "file": "2024/11-17.jsonl",
+      "examples": 240,
+      "sha256": "7284c668139b6c3878cab4c017b7e5720f99b6c68b09eac1e076222dfd920ff3",
+      "dataset_fingerprint": "5633488eb6e9573a30cd702a73435f89829f41ccb789c762aa2fef09bcfef77c"
+    },
+    {
+      "date": "2024-11-19",
+      "file": "2024/11-19.jsonl",
+      "examples": 240,
+      "sha256": "f1e3855d2767a54f254f005d6ff2768608b59bccc99ab7c3d3ca69f4359a5ce7",
+      "dataset_fingerprint": "86e86910343ff3159aaa45eeecd5a10d3cbbbe4baf763a85dfa11429dc1e6fae"
+    },
+    {
+      "date": "2024-11-22",
+      "file": "2024/11-22.jsonl",
+      "examples": 240,
+      "sha256": "4a04a7cf63326dbbdb6a4975a28d50d50d56208f0b10500932c0de3bae198552",
+      "dataset_fingerprint": "4b6e211ef397863c3741b3e3ddf4fb27ba6e68d16bbb6e8968c25dc7412f37c0"
+    },
+    {
+      "date": "2024-11-23",
+      "file": "2024/11-23.jsonl",
+      "examples": 240,
+      "sha256": "4e551fb743ba8c1b6c5381f470c40b5ee356179724ed6541c78ea06ed9159365",
+      "dataset_fingerprint": "98f3916a9cd8583c3c96bf7271c99898a0ed37dfed7b7602f5f14f377035dddd"
+    },
+    {
+      "date": "2024-11-24",
+      "file": "2024/11-24.jsonl",
+      "examples": 240,
+      "sha256": "9205912fcf6da78f51ff25fb12f2dce0b09f0514e30e2adb1a77f31421cb8d88",
+      "dataset_fingerprint": "fe664e356d9a4593e00fe9c1517e0e558fac5a9c714f773bbde5e57854013ac6"
+    },
+    {
+      "date": "2024-11-25",
+      "file": "2024/11-25.jsonl",
+      "examples": 240,
+      "sha256": "f6e014473129cd86f493cf88ed66409a7b775817a356d634257ffc12e83b62be",
+      "dataset_fingerprint": "ea2e89cb1bfa048db6069beb41db55a9b3fe7287c20bb00c2149c1b363d502b3"
+    },
+    {
+      "date": "2024-11-30",
+      "file": "2024/11-30.jsonl",
+      "examples": 240,
+      "sha256": "e6884fce8e0554cea4cd3ed3fdb4a0465016083d3bbcb12e959716525fa6617b",
+      "dataset_fingerprint": "381413dfc66978cf68d27e2c69276689f7ddbd8ff7a20ba87c42ebfc625f4ae7"
+    },
+    {
+      "date": "2024-12-01",
+      "file": "2024/12-01.jsonl",
+      "examples": 240,
+      "sha256": "6d0690466b5682a996b117ad65e94a7889abfadaceccf3e938b98db947cd9287",
+      "dataset_fingerprint": "68dd018f946d8c871d1af771e6772ef10465ff7df1c84ceffab364874cc3a3c1"
+    },
+    {
+      "date": "2024-12-02",
+      "file": "2024/12-02.jsonl",
+      "examples": 240,
+      "sha256": "671c2f4b815d293aac0b34a679882112712e5bbc7894838e55bac99319c14371",
+      "dataset_fingerprint": "1ce287ca0400e972a4d7475eab45e4528bc987ea7e9cb6e970115a3a4af9384a"
+    },
+    {
+      "date": "2024-12-03",
+      "file": "2024/12-03.jsonl",
+      "examples": 240,
+      "sha256": "a65f5133c32aeb2675be1267d4a906facb37fc2a414c1ac68746774ccf240956",
+      "dataset_fingerprint": "57f9e39839bf1c9adb886bb321cdbb0f6499bee05e1b42237177be87fff3d760"
+    },
+    {
+      "date": "2024-12-06",
+      "file": "2024/12-06.jsonl",
+      "examples": 240,
+      "sha256": "7a6cef50ffccfee5d159062347d597ea5cd435b7d0ce2bf5e019f640200e9e31",
+      "dataset_fingerprint": "22868c198596ee6e03d9ad5a59e0013cfb4f02ad842ac8c4c22b26894b6812cf"
+    },
+    {
+      "date": "2024-12-07",
+      "file": "2024/12-07.jsonl",
+      "examples": 240,
+      "sha256": "af8c8f2fc5f76fa02bf6b89bafa443a9b5b980e7da81fc29664b3855707cde7f",
+      "dataset_fingerprint": "eed1a391b52ec9f88f0e95429daeeccde64f184a18af9eb4bf0fbe52f6772a26"
+    },
+    {
+      "date": "2024-12-09",
+      "file": "2024/12-09.jsonl",
+      "examples": 240,
+      "sha256": "15e8af0480f2a17e7a5f9d0a1b235c440b5611c6f47a5200e815b218ab3bc8c1",
+      "dataset_fingerprint": "debc050e6d610ff68528745727ee929eb4a4696c0100150bca22317418ef221b"
+    },
+    {
+      "date": "2024-12-10",
+      "file": "2024/12-10.jsonl",
+      "examples": 240,
+      "sha256": "f6e2506b71a1b56e503e84a78abc25d613b8235757dde8a4b8ecefa57caa1dde",
+      "dataset_fingerprint": "28a949112a7569f39b3c5e77cfb4998378ae115e050fe87ea03cb7bc0d668276"
+    },
+    {
+      "date": "2024-12-11",
+      "file": "2024/12-11.jsonl",
+      "examples": 240,
+      "sha256": "1ec18aa9dbad978601c380ee6e932abb19d67a2e9b668730e30ab6b4b9baf1e8",
+      "dataset_fingerprint": "1f2af430384cc1f3318281873f6823448b2b6b242a6dab2ec4f5c34604bd948a"
+    },
+    {
+      "date": "2024-12-12",
+      "file": "2024/12-12.jsonl",
+      "examples": 240,
+      "sha256": "c91b6914c4b355ae0dd69210990876bc026203b0ec25d94a6689a775aee7e5d8",
+      "dataset_fingerprint": "0ba300a154fe2786ca01e48cb50d73b186d70ba5809aeea4210ed5e364764ce8"
+    },
+    {
+      "date": "2024-12-13",
+      "file": "2024/12-13.jsonl",
+      "examples": 240,
+      "sha256": "c88022b9d081bcbe678a5f07ff60769ce9bd54a6bfeb5bed25cc38ea4a8c9d2d",
+      "dataset_fingerprint": "b6fcc271b5a230bf9f4492fe2551ddac3212bbbd3011c1ac85d32fa24172ad58"
+    },
+    {
+      "date": "2024-12-14",
+      "file": "2024/12-14.jsonl",
+      "examples": 240,
+      "sha256": "e5e9dfbe601a438a8cb062a70e53dbc7cc6d99890ed8d16b4bde42b8972ded4e",
+      "dataset_fingerprint": "91d64e020faccf7fbbced3936788215d9f2a0176b9baf2ab3c52bad4057096e9"
+    },
+    {
+      "date": "2024-12-19",
+      "file": "2024/12-19.jsonl",
+      "examples": 240,
+      "sha256": "8c5ea24a61973a8a349b388b94563427485562798a53aaa5b5a8d4551cacd089",
+      "dataset_fingerprint": "7496d6eebc555e7c271916903fff67020467308bc1247f650ae38c3e342a50c9"
+    },
+    {
+      "date": "2024-12-21",
+      "file": "2024/12-21.jsonl",
+      "examples": 240,
+      "sha256": "9a29e4562e1fad51939919bfc19dcd9ec4cf7a9772c73ae51507d737699c8278",
+      "dataset_fingerprint": "45223dc15eb94000558cc4deea23ff0e7bde10b106bbb29ad1b9e613dd5cb197"
+    },
+    {
+      "date": "2024-12-22",
+      "file": "2024/12-22.jsonl",
+      "examples": 240,
+      "sha256": "26cf022aacfb95a62fd91edb27025614b543897826e9c0164eed9639d7a351c0",
+      "dataset_fingerprint": "b6572daeb727d5ee22acf62b0b51aade6c1e40a162f997204240d569f02e2f79"
+    },
+    {
+      "date": "2024-12-23",
+      "file": "2024/12-23.jsonl",
+      "examples": 240,
+      "sha256": "b326266d21be366bc908ce0c388952e45b454a0bd427d0111a0bb84ace28c470",
+      "dataset_fingerprint": "5733dd94e9af13a511284c5a0aaad68d3de4e4188e7816049f1728a084336e24"
+    },
+    {
+      "date": "2024-12-24",
+      "file": "2024/12-24.jsonl",
+      "examples": 240,
+      "sha256": "d4967e01ba18fb3013de2fb9ebdae857adf05db97914b26002144d5ef0ef7387",
+      "dataset_fingerprint": "be5d272f48cb86a92df4e5a03c2e3729bf1457078fb2be136e69722bb8b8b9d7"
+    },
+    {
+      "date": "2024-12-25",
+      "file": "2024/12-25.jsonl",
+      "examples": 240,
+      "sha256": "2ed11ef169feae162ff454d1bb3c5c8a3a18b05a28359c1bf41e994c4fab966c",
+      "dataset_fingerprint": "c6005ce3187cb2cd4a980d047c9cc92e953509d1ae5925d6146aed0839c5566e"
+    },
+    {
+      "date": "2024-12-27",
+      "file": "2024/12-27.jsonl",
+      "examples": 240,
+      "sha256": "31ae56dd70f57a53fa9ba4c44ba3ba00074f5097f38327c35d454a9efbf3666d",
+      "dataset_fingerprint": "badf22fd4c491eab7c2fe90c8b0fbb23dc7dd3c112a1d83cfecaa7f4024fa7ff"
+    },
+    {
+      "date": "2024-12-28",
+      "file": "2024/12-28.jsonl",
+      "examples": 240,
+      "sha256": "0c49b2e3864e8c19d7efdcfdf5f891618f90b8d2d2d7d0342737b1e12dd9006d",
+      "dataset_fingerprint": "5f9640795c6fb54d2f3ae865b600ee6d0294602267e348ffc817386513b6c6a0"
+    },
+    {
+      "date": "2024-12-31",
+      "file": "2024/12-31.jsonl",
+      "examples": 240,
+      "sha256": "8d7fbc17ff79a013ff56c485fffe3bcd38eef66cbe8b7eec86f04ef15638fd16",
+      "dataset_fingerprint": "a0b26cebbb6a02d84d7b6b2a1f13c4ecd93a8e31351fdddf88da6a77cdee580d"
+    },
+    {
+      "date": "2025-01-02",
+      "file": "2025/01-02.jsonl",
+      "examples": 240,
+      "sha256": "71c73fc5690440d36a07323b6632be201a7b5ee7e0cd7942b4a940f96e1eda01",
+      "dataset_fingerprint": "f336871edb583b28e63d8301d353e5bd057cbaef758d93116b6089486bc1033d"
+    },
+    {
+      "date": "2025-01-03",
+      "file": "2025/01-03.jsonl",
+      "examples": 240,
+      "sha256": "4c5dd8cf1aa500fbc3965d3861e34e507eedf8342f2401d6f431dfbfae0f071e",
+      "dataset_fingerprint": "29d4925ce3f0ea41ac9f204759a9678349f4fec4d3d9efa548cd6947666f08d2"
+    },
+    {
+      "date": "2025-01-04",
+      "file": "2025/01-04.jsonl",
+      "examples": 240,
+      "sha256": "32e2724ae6aa4fb766e4d9d8e435c29bf4073906732ce77e41b6e93902ce349d",
+      "dataset_fingerprint": "fee7017bd41359723766ca5ef15af955e1833728d78df9c629cc798c02ed560b"
+    },
+    {
+      "date": "2025-01-05",
+      "file": "2025/01-05.jsonl",
+      "examples": 240,
+      "sha256": "f2ef68648009dbfb06b25b0f840e2e92789de699da6b83522cd35b9b96687654",
+      "dataset_fingerprint": "cff639e31c45dbe214fa2537b90304710a4845bc94638ee0014b05481b350c65"
+    },
+    {
+      "date": "2025-01-06",
+      "file": "2025/01-06.jsonl",
+      "examples": 240,
+      "sha256": "23c30e0bc99846947ec1c44f1987c70b2ba754db4c67c825b416f3c8e246a7dd",
+      "dataset_fingerprint": "aea823ec4d09e1e058698461448f4ba1c413d7f312ef92f9162b264c2de2ef5b"
+    },
+    {
+      "date": "2025-01-07",
+      "file": "2025/01-07.jsonl",
+      "examples": 240,
+      "sha256": "445f21afae57e9ba616d5dcf9fab49cd286e78e6c5d4b53d97ee563c9d5b9f24",
+      "dataset_fingerprint": "ae2b85fdfff15f5e5b1562682bc75bcb2fefeb4b2e4d44385c86b1bbb4c7c188"
+    },
+    {
+      "date": "2025-01-08",
+      "file": "2025/01-08.jsonl",
+      "examples": 240,
+      "sha256": "9d9a04ae92f06632a1ecf44ed6872253720be14c8a9feb8709f055514153f65c",
+      "dataset_fingerprint": "3d3ae3898640d5140aac4ce5014546be0435c74b61e42d31c5a8d02811a2c9ce"
+    },
+    {
+      "date": "2025-01-09",
+      "file": "2025/01-09.jsonl",
+      "examples": 240,
+      "sha256": "f9aef7f9ef9582d9eaf482555d4a424d62a8421dfa1addb0a14fd684d14b08fe",
+      "dataset_fingerprint": "e7c1846e44c848fc7cb74880a947761904d8203f619074898c0161ce384883dc"
+    },
+    {
+      "date": "2025-01-10",
+      "file": "2025/01-10.jsonl",
+      "examples": 240,
+      "sha256": "ac878dbe338f64142cc66797715e56588641b37264d24dae15789729f2373c04",
+      "dataset_fingerprint": "49e3de50ca2140980064dd234dbb7c5cf6b31279b49cab1b1ac896e47ce411cc"
+    },
+    {
+      "date": "2025-01-11",
+      "file": "2025/01-11.jsonl",
+      "examples": 240,
+      "sha256": "dd695550861f73772d757e9c2a58a0e9639f0975e70c59e68ec2f3fde4316deb",
+      "dataset_fingerprint": "2cbedfc03bcea5aca9e4ffb829b17dd2548850b910d2b4854c2506fe4f7c208e"
+    },
+    {
+      "date": "2025-01-12",
+      "file": "2025/01-12.jsonl",
+      "examples": 240,
+      "sha256": "59d17c410eb996c97239df9d2bc370bdd441ab86a39bb2a9311b7d0b1d20c224",
+      "dataset_fingerprint": "fee651c9ab8d5bcf5746f38497be87592775530c6d6305359d266437d2d1bde3"
+    },
+    {
+      "date": "2025-01-13",
+      "file": "2025/01-13.jsonl",
+      "examples": 240,
+      "sha256": "68aa76971d129d33244165b7f794d8de4c398ecd2a7d2d244ecd16ff1c1e1821",
+      "dataset_fingerprint": "61127bd04b52a13a9585ec37fe683ddcd0ad981ccea7973959663f2a5be98a1a"
+    },
+    {
+      "date": "2025-01-14",
+      "file": "2025/01-14.jsonl",
+      "examples": 240,
+      "sha256": "e2d1f9541f4237ba3a89db76f2232aa878f3bc3e101ad5e181c6034be9737d2f",
+      "dataset_fingerprint": "d31911d35d997b7403bfb9627be99fe2d388dd3bfb764b5dfe1e97f99faa4eae"
+    },
+    {
+      "date": "2025-01-15",
+      "file": "2025/01-15.jsonl",
+      "examples": 240,
+      "sha256": "93f95aed396c8620a283b992f7fdcb403c13f02bea7c82f94538bfd2fdb7e874",
+      "dataset_fingerprint": "9461efabb3906c8eb70df43cf0e6ab0336d75b69867e2324fe281887d9394bc5"
+    },
+    {
+      "date": "2025-01-16",
+      "file": "2025/01-16.jsonl",
+      "examples": 240,
+      "sha256": "a39f38dcf1e82c60cf428cacc5647c2f26cd0ce6431fbff97eaaf653a8d4d96b",
+      "dataset_fingerprint": "119f16471b804f20e5507a50e93386cf02a65cd35e9aafeb7c73a316e0ea8141"
+    },
+    {
+      "date": "2025-01-17",
+      "file": "2025/01-17.jsonl",
+      "examples": 240,
+      "sha256": "89934623bb9aa7764feeafcbc3e3106e47d265a221fefd44a34cef9a6732d060",
+      "dataset_fingerprint": "5323845b6d85020a7e834f1f2c7dc2924abd49043aae1fde68f151654c9c2def"
+    },
+    {
+      "date": "2025-01-18",
+      "file": "2025/01-18.jsonl",
+      "examples": 240,
+      "sha256": "314a49207eeb7fe29ad10a6571367c19a07b0e6eaab64ff8de59d4a550d05f48",
+      "dataset_fingerprint": "eb923f7f372a037f49f643ff3eace456b6e7c598174f6765ae16ab46d9fe98d0"
+    },
+    {
+      "date": "2025-01-19",
+      "file": "2025/01-19.jsonl",
+      "examples": 240,
+      "sha256": "f237940024a18fc2a802357943deff7b3d30a2ddf6a35ea48598fe18a302d362",
+      "dataset_fingerprint": "871ced6767064f4adbf47112b22d225232da97bb2536614e399c2043275dfb85"
+    },
+    {
+      "date": "2025-01-20",
+      "file": "2025/01-20.jsonl",
+      "examples": 240,
+      "sha256": "da6a3b3dd432212dc5dd0e2c51c2eeb0dcc31c7709a152c09cbbc94cf2776889",
+      "dataset_fingerprint": "0c62edd0c35ecf93ede493cd7e76070aacfbf1e5542d8684e2d4352fcedb9538"
+    },
+    {
+      "date": "2025-01-21",
+      "file": "2025/01-21.jsonl",
+      "examples": 240,
+      "sha256": "e2a0cb2e9939d6d6d596856a84d1646fee0a5edbba0fde05080a34377c674488",
+      "dataset_fingerprint": "9dff69da5e92e5ba4257801eba8aa733a9178bb982977cfafb74c6d13af3572a"
+    },
+    {
+      "date": "2025-01-22",
+      "file": "2025/01-22.jsonl",
+      "examples": 240,
+      "sha256": "813417cba3c2b2b93afce5957e5d0b9d801318f609bc2cb277fe6d964c0dfbcb",
+      "dataset_fingerprint": "878c6d0710d2a54c975e7a33d7d0887348e50033c53d6b37e2de04f95fba4d8b"
+    },
+    {
+      "date": "2025-01-23",
+      "file": "2025/01-23.jsonl",
+      "examples": 240,
+      "sha256": "a2aa9541ed41d09c80003dbe728de14cbd8614c9006ec3b3d574a3d370ab7821",
+      "dataset_fingerprint": "a4b0b64e1bfeefb90878a3014442f53769853101a3c80494aa95ff4758dc239f"
+    },
+    {
+      "date": "2025-01-24",
+      "file": "2025/01-24.jsonl",
+      "examples": 240,
+      "sha256": "25f8304c8705e55b851626bf50409550a6e46d03e75dfc32e4233e5679d55f6a",
+      "dataset_fingerprint": "459a81d3c52b74e87899c3542e550ed76f22f17f566f6cfa9fe82d8cbf33242a"
+    },
+    {
+      "date": "2025-01-25",
+      "file": "2025/01-25.jsonl",
+      "examples": 240,
+      "sha256": "56d0ea6d947011a0e471ac58915e6c8afc82fa85beeacdd34a61fdab3ef6d1a7",
+      "dataset_fingerprint": "89d8bef2cf555b6a345564ead232e78e3f8161580327206315b87bc91ee87870"
+    },
+    {
+      "date": "2025-01-26",
+      "file": "2025/01-26.jsonl",
+      "examples": 240,
+      "sha256": "f3d57ea31bc0ac3abcee7be98ef037ea6bfbdb443d32485e25024dbffd2b89c5",
+      "dataset_fingerprint": "7dbb3634cd0a8a0a27dfffb11c68061ad08579e465119670542217d4d110e426"
+    },
+    {
+      "date": "2025-01-28",
+      "file": "2025/01-28.jsonl",
+      "examples": 240,
+      "sha256": "27492916affe146cf437694c38139348b49e4923a08238182c1b3c8f39403218",
+      "dataset_fingerprint": "5668fa0e14ef02b64d9082ce2bae5a3129b07bc5441114e8096985a05f708631"
+    },
+    {
+      "date": "2025-01-29",
+      "file": "2025/01-29.jsonl",
+      "examples": 240,
+      "sha256": "852a5e626a1866cb5b06694ab70c1279421b10fc3e80309a78ff3451402af457",
+      "dataset_fingerprint": "8eda9bf5ef2ca2e66b216d4f497a0395a96128a73c594427b44eed4abe83f8f7"
+    },
+    {
+      "date": "2025-01-30",
+      "file": "2025/01-30.jsonl",
+      "examples": 240,
+      "sha256": "c0c11cd99ec75725dcd2a8506ba39bd494d5a726c4d1d97b90423efa05f5c2a1",
+      "dataset_fingerprint": "b36f8e68a2a95713a497cfc892b98abb3d2b893890ec2c028deb0531e37bb8e6"
+    },
+    {
+      "date": "2025-01-31",
+      "file": "2025/01-31.jsonl",
+      "examples": 240,
+      "sha256": "6e1ca9aa709758c472dc2775c94bd43830b7e92ec22c1e68a25f8979e28c7fc8",
+      "dataset_fingerprint": "a36113589d11e056b2d222ca419ac803cfec81781e8463dab3f598f25e6632c0"
+    },
+    {
+      "date": "2025-02-01",
+      "file": "2025/02-01.jsonl",
+      "examples": 240,
+      "sha256": "00e8b7ea9c15ed5f92a570c8d6546ea894674cf37abac9c058c3ddeb69993406",
+      "dataset_fingerprint": "693a0ea8ce64f283006794285c90b36f9ee6f002a7d16a4accea6f590f071a19"
+    },
+    {
+      "date": "2025-02-02",
+      "file": "2025/02-02.jsonl",
+      "examples": 240,
+      "sha256": "a1945d415f8c29075d9c86e2094650f0b86113fb6154fb39d935baf9142a3e5d",
+      "dataset_fingerprint": "e796fed486f3be770d7a4cbf9e7271ac87bebcfe924d3360303c21a0560ea294"
+    },
+    {
+      "date": "2025-02-03",
+      "file": "2025/02-03.jsonl",
+      "examples": 240,
+      "sha256": "e2402a28e12defefb3015447e00fa79fe42e6b5964a4510fde91c98247b15f6e",
+      "dataset_fingerprint": "24a866d6cc2ebd0c0edca61cb45ea20a4e752addec408c4b17b86d8f044e3ad6"
+    },
+    {
+      "date": "2025-02-05",
+      "file": "2025/02-05.jsonl",
+      "examples": 240,
+      "sha256": "43b28d8d364eaec39afadec9e1016ab5680aebbd1dee97eaa053a2c8425677d9",
+      "dataset_fingerprint": "637fe634734f9bcb9831627a80d904d20e283fa73e4b0dfc93d4130dc7c91f4a"
+    },
+    {
+      "date": "2025-02-10",
+      "file": "2025/02-10.jsonl",
+      "examples": 240,
+      "sha256": "43e4c4653cec574e943947e4780c90e72039473f6bc23e743b3bda8ac983073c",
+      "dataset_fingerprint": "90c72aebb139dc204da7fed78d71c4280eb49ea726041401e077aee6ece39de3"
+    },
+    {
+      "date": "2025-02-11",
+      "file": "2025/02-11.jsonl",
+      "examples": 240,
+      "sha256": "c2a09f4598cab5209c11530d33dc81435129546a15b61942a6158e9209d055dd",
+      "dataset_fingerprint": "760f25f14db8fff39b064c76c0dffe6445af4f5815ff8fa347b603dd3dfe6ad0"
+    },
+    {
+      "date": "2025-02-13",
+      "file": "2025/02-13.jsonl",
+      "examples": 240,
+      "sha256": "0e293dfd43bbc3b356dbbdaaf2571cd26efe51946da867e8f5401b99aa7089e9",
+      "dataset_fingerprint": "4fb0a2262d59713530adb831f2f784cd2bef2771e904f840cb2e3d7c25236c2d"
+    },
+    {
+      "date": "2025-02-14",
+      "file": "2025/02-14.jsonl",
+      "examples": 240,
+      "sha256": "4cd5898d11d30b2736402480ef7875eb32794fedae8bbc42c2ef26f902f8139a",
+      "dataset_fingerprint": "0936a7806bf41e092186729c16f3230adf7cb329436bf77c6c31d3bb2ad323a1"
+    },
+    {
+      "date": "2025-02-15",
+      "file": "2025/02-15.jsonl",
+      "examples": 240,
+      "sha256": "c2ab78b36912672668a3ade846cec7cc95ad108498df33ebd8f4ba9ebe882e90",
+      "dataset_fingerprint": "dbc0384ee9e5e1e1efea084efa837a85ffc20287c6eb4fee7ae82e26e98db282"
+    },
+    {
+      "date": "2025-02-16",
+      "file": "2025/02-16.jsonl",
+      "examples": 240,
+      "sha256": "d7d9403abee9c3b18cfa1f82de552ee79f401da8060717eee1ce088546e26905",
+      "dataset_fingerprint": "55b82900e55a50423525165576ac4a59742ee21bed47347adde1efcae987cf3b"
+    },
+    {
+      "date": "2025-02-17",
+      "file": "2025/02-17.jsonl",
+      "examples": 240,
+      "sha256": "35128b1c237e8142a086a8d9c17c20d330803e5047fc825b3d02b63ee2b0aad9",
+      "dataset_fingerprint": "441f40d03e60be63e1ce25d2f1b30273624fa2c240a41013e4d1f08d693a4e3e"
+    },
+    {
+      "date": "2025-02-18",
+      "file": "2025/02-18.jsonl",
+      "examples": 240,
+      "sha256": "de8f002e498cb0caf002faa66091f5bf857352edeec5c8709d6665be4b46803d",
+      "dataset_fingerprint": "fac97bec5af033e12f703c46b1d207720a78c1b3fc636b488a143cc94b256eb6"
+    },
+    {
+      "date": "2025-02-21",
+      "file": "2025/02-21.jsonl",
+      "examples": 240,
+      "sha256": "8d8e0c5e642595a3ba779db22880863344c9c8f663ce47b780eca432ce4b3d38",
+      "dataset_fingerprint": "24931b4dddc97046869bc915e616017da5e8354fb9cbcd2fd36df5b78152d69e"
+    },
+    {
+      "date": "2025-02-23",
+      "file": "2025/02-23.jsonl",
+      "examples": 240,
+      "sha256": "fdbaec9fc6dd4dfa57c349d9042363893a6d28c51b5fb8ff12bce9deeeee42eb",
+      "dataset_fingerprint": "e2d390caadcaa4b1e4b103876639d3da28484b8e84399c187ab13c267ccec7f4"
+    },
+    {
+      "date": "2025-02-24",
+      "file": "2025/02-24.jsonl",
+      "examples": 240,
+      "sha256": "d32f78c18bc683bbae763d6aab9455bbb1234ffc8a5dbca3cd918ec497ea8af1",
+      "dataset_fingerprint": "edaf33d00358f52394b7826bedf8bc5e6030c0bb4a1dcba8efa854e9c578910f"
+    },
+    {
+      "date": "2025-02-25",
+      "file": "2025/02-25.jsonl",
+      "examples": 240,
+      "sha256": "0d0581f92d2404257d164a5f9c1563fb89d49ed3f3e92c7ac5a4d8d79aa2ece4",
+      "dataset_fingerprint": "9ccd07753ee3f9380a8ab67bf721feda439987974fe940763294b65ad28db0fe"
+    },
+    {
+      "date": "2025-02-26",
+      "file": "2025/02-26.jsonl",
+      "examples": 240,
+      "sha256": "28ac66fc629b74886c85627a32e6e9cea55a9cfabe6a58a3e4505883e048fd8d",
+      "dataset_fingerprint": "57021c12e709fd5b55b1b78706bab1f2569d6927a69d277a141008cc72c75015"
+    },
+    {
+      "date": "2025-02-27",
+      "file": "2025/02-27.jsonl",
+      "examples": 240,
+      "sha256": "0ac2a8e9c7564af192bb53daf1dc9b03bc4c60766291bfdd4ee5625988b61dc7",
+      "dataset_fingerprint": "f002987203a0be580fa2554e43f973acf4527f829748cc00bc8e1279a43b69f2"
+    },
+    {
+      "date": "2025-03-02",
+      "file": "2025/03-02.jsonl",
+      "examples": 240,
+      "sha256": "2845465a27ff29941c596343c133648e14d0506ebf5cb589f02d8473b9e4cf5a",
+      "dataset_fingerprint": "32ea19670940c513e9e982bddfd13cda32fc437c91e8c73b370e6b72824bbf2f"
+    },
+    {
+      "date": "2025-03-03",
+      "file": "2025/03-03.jsonl",
+      "examples": 240,
+      "sha256": "4910ce33cb1f97bdb3e464a4aef7c5d0d9de42a3c45ff8c876e8e825b4c453ae",
+      "dataset_fingerprint": "f4ef1794c4c3fd7624e6f30732d930961ca904c7cf7f35026e334bfbb6ee1f20"
+    },
+    {
+      "date": "2025-03-04",
+      "file": "2025/03-04.jsonl",
+      "examples": 240,
+      "sha256": "e33708ed39dfd90bd878ca2cefa266d9053183eda231928529494eb238e141fb",
+      "dataset_fingerprint": "4fc3910cfcc33ebdad0168bad2722b99465042c13eb737038d0ac6550ca1d879"
+    },
+    {
+      "date": "2025-03-05",
+      "file": "2025/03-05.jsonl",
+      "examples": 240,
+      "sha256": "0b414434b907df924d99fbab6ff40f3e6fcf1fed043e6d3513f889c311e7835b",
+      "dataset_fingerprint": "f097c3224d05dcdc1ff5a36da27c734e23ba187eddd20b7426a280f12e6ffff9"
+    },
+    {
+      "date": "2025-03-10",
+      "file": "2025/03-10.jsonl",
+      "examples": 240,
+      "sha256": "0fc5de1bb53d93e081cfbd063ee7821a5bf11970def204cc9d357788e963fb21",
+      "dataset_fingerprint": "1456939c3d71ecfbeace6c98ba4a7730ca50b276da7c8fd67d6b6e8125b1c105"
+    },
+    {
+      "date": "2025-03-16",
+      "file": "2025/03-16.jsonl",
+      "examples": 240,
+      "sha256": "f2d51ac6d26e221f48f75de13139843b11d4411ac08fd9dcfb26da8ae757b9a0",
+      "dataset_fingerprint": "97484f4de7939a7acda83295078fae0864aefae80873a552d6cf5e416af5afc9"
+    },
+    {
+      "date": "2025-03-24",
+      "file": "2025/03-24.jsonl",
+      "examples": 240,
+      "sha256": "4cb5fc853de2ab9429ec81e4ee46501704d9ad756f729b28bdefb88e8f19258a",
+      "dataset_fingerprint": "739a8c3e366d567291b39501414f5f8a0027959893c33cefc648f35b12fb5148"
+    },
+    {
+      "date": "2025-03-26",
+      "file": "2025/03-26.jsonl",
+      "examples": 240,
+      "sha256": "0e3a74bcdee0b86283943983baa71cd14b4c40c3ab65a0a97055e3d7f3a822f5",
+      "dataset_fingerprint": "33649871df2f1fbae652268a9c04af0505a4d79f2237e0799ee793aa3eafdd3f"
+    },
+    {
+      "date": "2025-03-27",
+      "file": "2025/03-27.jsonl",
+      "examples": 240,
+      "sha256": "f041eb3a1338a6936de601695f0f52db9bf825519b3550e16826d03aadab363c",
+      "dataset_fingerprint": "071949526575b458bc48cd5136bee4f2704b44f7a56c91fbabe278ff3b3b9943"
+    },
+    {
+      "date": "2025-03-30",
+      "file": "2025/03-30.jsonl",
+      "examples": 240,
+      "sha256": "e62e920050fd6851d9697dbb19fef1b01c8a6eb2bc96ede85e380c4189970697",
+      "dataset_fingerprint": "6662cefed18067eed9fe4415754e8bd7900274df1aa6f2e3591100dc0cb38986"
+    },
+    {
+      "date": "2025-04-04",
+      "file": "2025/04-04.jsonl",
+      "examples": 240,
+      "sha256": "d734fcdc2500f8324851ea40f83aae14562334d8295762164d89dafbed4fece9",
+      "dataset_fingerprint": "5b733bbbac7d2d393a573de6d07a6f6719a7f75027755de4c6869de0ebffc6a3"
+    },
+    {
+      "date": "2025-04-05",
+      "file": "2025/04-05.jsonl",
+      "examples": 240,
+      "sha256": "22df76c0520283409a4e661dfd2eade7e5447e78d778873385f4aa7137c1a84b",
+      "dataset_fingerprint": "5758cba58a44d7eeaf0d62d26388be7ca24936bd2784add82d625a102a35c4cc"
+    },
+    {
+      "date": "2025-04-06",
+      "file": "2025/04-06.jsonl",
+      "examples": 240,
+      "sha256": "16d7c8a237f704f43c37328e52adcd8558f33233b23c5a9fa826fa258628ad5b",
+      "dataset_fingerprint": "d2c9b3c9692e2980c2f25950556ed71c48ca1b2674e042e076309498cffb912f"
+    },
+    {
+      "date": "2025-04-07",
+      "file": "2025/04-07.jsonl",
+      "examples": 240,
+      "sha256": "04c624643880fbc207a706f9314dc44e1c17c60e02e9689dbba038bb5d26b14d",
+      "dataset_fingerprint": "04d1d04824e8d9585bb7a62d3afedca07d0fc5cbf4499c4da70d2a1e58f9b3e8"
+    },
+    {
+      "date": "2025-04-09",
+      "file": "2025/04-09.jsonl",
+      "examples": 240,
+      "sha256": "b37d735c8815329ab07ee9abeb7d7b02390d436d588d1e91b6b9571ff4bfd029",
+      "dataset_fingerprint": "a3d0942ebf81a918f1fe914a43588afeb87dff1a45814568f31304cf8fbe543e"
+    },
+    {
+      "date": "2025-04-12",
+      "file": "2025/04-12.jsonl",
+      "examples": 240,
+      "sha256": "7413b273114ea429d523e6830bad60e8508354aaeef49936cca9e021b822049d",
+      "dataset_fingerprint": "12e1852788f6a248e0b35793ed4ebce7825034209bcc7fe8e954c1b42d2a0543"
+    },
+    {
+      "date": "2025-04-19",
+      "file": "2025/04-19.jsonl",
+      "examples": 240,
+      "sha256": "6f48f218ee141b36a7cc20c9a17cfda95db46b346012a8a8210a7efb90ec5323",
+      "dataset_fingerprint": "d626b88f23bec7fe068755baa9a59b8f9149142108c68e2329843e1515eed6fa"
+    },
+    {
+      "date": "2025-04-20",
+      "file": "2025/04-20.jsonl",
+      "examples": 240,
+      "sha256": "c357d507dd0a5850365607a2d383bb716e8b73119995b4d0d42f6817c56e913b",
+      "dataset_fingerprint": "cb8073007eb5462fc975b1ad4952aab5910b8e68065d13b343a138115f1942a7"
+    },
+    {
+      "date": "2025-05-04",
+      "file": "2025/05-04.jsonl",
+      "examples": 240,
+      "sha256": "ca307d46c1c541dee70da6e277edc0fe3d76ade1da7799bb6d7cd3ba89033ae0",
+      "dataset_fingerprint": "18275a987470f0956711d43006248f7e5b54e796e8c23cb75e0badd77050d90a"
+    },
+    {
+      "date": "2025-05-05",
+      "file": "2025/05-05.jsonl",
+      "examples": 240,
+      "sha256": "585ca062bbde38fcb6b82ead66bba9f7b79dbb2103937e9e49ea5dbb8905fb9d",
+      "dataset_fingerprint": "243cf0ff9c0a6d295692b35abe1a538dca8b4b0168d27857d1c2b01f15463667"
+    },
+    {
+      "date": "2025-05-07",
+      "file": "2025/05-07.jsonl",
+      "examples": 240,
+      "sha256": "e32cfe1ac9d0fe265e1b3013d6faffb9f31fe3aed3806eeefbd593e7147e5601",
+      "dataset_fingerprint": "bad7e5fbf00b8a8daea6ac1758bb67fe8a72d33fe95e9cfd90889bbe63fe5398"
+    },
+    {
+      "date": "2025-05-11",
+      "file": "2025/05-11.jsonl",
+      "examples": 240,
+      "sha256": "22b50902d527f542013b69c0359e3bdd8c93aade5b71d8b9a882b5cef30a45e9",
+      "dataset_fingerprint": "45094bfccce7b10551a6d1dee2f8899a45411c6b116170d3027e043976cf9364"
+    },
+    {
+      "date": "2025-05-12",
+      "file": "2025/05-12.jsonl",
+      "examples": 240,
+      "sha256": "997c7426092ab45806fa32534a562fbbae5a07e5abec3a6a486efb23ee7e6ac0",
+      "dataset_fingerprint": "46c7805fff4de1f97f365a57c5f3956fadb30c36afc944a85b80afc90c8cf43e"
+    },
+    {
+      "date": "2025-05-16",
+      "file": "2025/05-16.jsonl",
+      "examples": 240,
+      "sha256": "9edaf6d50dfd93d777b2a6a0ef6faece7a5806e2cc097fba263375c19b59fbd1",
+      "dataset_fingerprint": "e6fa83c175e9865985bef7957e1c126906637d74c4a97a5dcc316718660a0c0c"
+    },
+    {
+      "date": "2025-05-19",
+      "file": "2025/05-19.jsonl",
+      "examples": 240,
+      "sha256": "99b076f7fb3543d74ba1d385db0d4321345bf4c80ecf7f01140aa58523ad8fbb",
+      "dataset_fingerprint": "5a420725cbdd39571eebbf30e307f2848a8520c2ace371b78cdcd661da492ebb"
+    },
+    {
+      "date": "2025-05-21",
+      "file": "2025/05-21.jsonl",
+      "examples": 240,
+      "sha256": "6708111634b3f28e44ded6b0905ae173b173f62e0280cff9d724577a902c75a9",
+      "dataset_fingerprint": "c37760baf3ab9d00142bd1337af2d984b0a894382cbc8030ccee0a63315063b1"
+    },
+    {
+      "date": "2025-05-22",
+      "file": "2025/05-22.jsonl",
+      "examples": 240,
+      "sha256": "07746d280339d51d9e6cfdb0984a43380862b65867666844caa91b8dc9fa8eda",
+      "dataset_fingerprint": "35daaf01da543a01ef3a8ee710cf1479e37d4e3bf8af3130b14eb766c7631c52"
+    },
+    {
+      "date": "2025-05-23",
+      "file": "2025/05-23.jsonl",
+      "examples": 240,
+      "sha256": "9788b75cef223df7f9a283b86382a0b0f390b95337f026185cd6becdd4f195f1",
+      "dataset_fingerprint": "c6bdf6ba40c75db97e69b7d76692e7094f8562e831388b8eb3853eefe2dddef3"
+    },
+    {
+      "date": "2025-05-26",
+      "file": "2025/05-26.jsonl",
+      "examples": 240,
+      "sha256": "43c0c2592511c1c05b46f71d35ec2331c28f81293b21af774496e5b5f8b8e71b",
+      "dataset_fingerprint": "24ac40e01e7d0459b7cc82a8b059a107a81cdc8edef4172c1e87b2f41b88bcd3"
+    },
+    {
+      "date": "2025-05-27",
+      "file": "2025/05-27.jsonl",
+      "examples": 240,
+      "sha256": "3ef7c46d0725ee6c2e3937a661e008263e0f7573b614c651122bcd60a544f04c",
+      "dataset_fingerprint": "a1d51b2a576168a80bc95b9cece9b639074263b3bb5f2824e7178e0696be12db"
+    },
+    {
+      "date": "2025-05-28",
+      "file": "2025/05-28.jsonl",
+      "examples": 240,
+      "sha256": "4d1f3e015697d8414b3fbef4caca501877b7e5f8eb42711abc257867fef53e01",
+      "dataset_fingerprint": "4cca7d32411685f12f686eb596c886732a8851663a47608a82f7f126983a61ba"
+    },
+    {
+      "date": "2025-05-29",
+      "file": "2025/05-29.jsonl",
+      "examples": 240,
+      "sha256": "12b21dcf6b646734cf215c7e85a9377b9d9b61f04cecf344d65cf8bcae7bb0c1",
+      "dataset_fingerprint": "edc86f08894868e8a3f06b032810fd5f63ef04618b28608d86c7ed2c4178f564"
+    },
+    {
+      "date": "2025-05-30",
+      "file": "2025/05-30.jsonl",
+      "examples": 240,
+      "sha256": "0e76ed7d264e3e7dbe21a15fcbb1f89174ed926bfcbd7e5450b88616c84fc7b4",
+      "dataset_fingerprint": "a8296b32b05d7a081947463fa803e9a9493e7c2902cbc3874a4d4d6120512eab"
+    },
+    {
+      "date": "2025-05-31",
+      "file": "2025/05-31.jsonl",
+      "examples": 240,
+      "sha256": "8df9cc7854dcd066235765af525cf389184002e640b12c8ecd929fc10ea2f8f9",
+      "dataset_fingerprint": "b2d02e87f7d5e65d32eedc7e14ca00da8e59688a5dd6e2afa218fa7f35258df7"
+    },
+    {
+      "date": "2025-06-02",
+      "file": "2025/06-02.jsonl",
+      "examples": 240,
+      "sha256": "5881899d65ccd2c5f231cf9bea69c95f43c0671083f2f49dfa5435e3c6d1f454",
+      "dataset_fingerprint": "92bd05bfbd510f6225e915367f4cdcfe86fa0ab7282c7a1e1c3807f13981fcf2"
+    },
+    {
+      "date": "2025-06-05",
+      "file": "2025/06-05.jsonl",
+      "examples": 240,
+      "sha256": "2db501aea8381b0f7f9bea6187f87dabc4d8221efc86ebc2c0ed11470669cfd0",
+      "dataset_fingerprint": "3b327e69ee6b685085c3eefc943faece6b8b491111ff7fad680c10dabf08e355"
+    },
+    {
+      "date": "2025-06-08",
+      "file": "2025/06-08.jsonl",
+      "examples": 240,
+      "sha256": "980034e479ba7b9c61652b1452ba1b263a7327d7c9f45c0df653d01a4e0b6028",
+      "dataset_fingerprint": "f5bfa5ce1d2e84d558d71fa00cf0b185c1645d5c269d228f29c3ad0ced1c12bd"
+    },
+    {
+      "date": "2025-06-09",
+      "file": "2025/06-09.jsonl",
+      "examples": 240,
+      "sha256": "b42e7a4e4dae5d19c9088a89abf70bbdab8b20240f41af6fd2b2c58c04b6f94c",
+      "dataset_fingerprint": "aa6e6784f16f593406b889e0e755aab91fed636f89aa4157d67fc003ae14ce73"
+    },
+    {
+      "date": "2025-06-10",
+      "file": "2025/06-10.jsonl",
+      "examples": 240,
+      "sha256": "46df3195169bff15c300930e24e003b528094a5cdfcdaa4b221a471a5e1b03fc",
+      "dataset_fingerprint": "cafe787820f1ff8f11b9315a1778bfb9c481a4cb34cd7bbc4d5a5962fd1964e5"
+    },
+    {
+      "date": "2025-06-12",
+      "file": "2025/06-12.jsonl",
+      "examples": 240,
+      "sha256": "36a0e808633bd46474e9f511b440d224a24885eacec3df796b46b0321ce1b904",
+      "dataset_fingerprint": "bce4b520ab76280b201c4760b1f15f9f44ca8cc4008a50f6cd9bdb0c4ec25d2c"
+    },
+    {
+      "date": "2025-06-13",
+      "file": "2025/06-13.jsonl",
+      "examples": 240,
+      "sha256": "8343724da39074e179fdcede1fb8468c187353c2b39d5f222cb393139b61bf37",
+      "dataset_fingerprint": "c034636ae19c0151246428d4fdff9bed0448b519be2de76881799d28cbb2299b"
+    },
+    {
+      "date": "2025-06-14",
+      "file": "2025/06-14.jsonl",
+      "examples": 240,
+      "sha256": "2c3173826c422627126f3a0346a83996ba3c01a2ae2f3e0199f7cc487a639828",
+      "dataset_fingerprint": "0e4edb4f9bb4d097fbd837d1f5c77b5e1f373d78c30bfd35432c4272a754aba0"
+    },
+    {
+      "date": "2025-06-16",
+      "file": "2025/06-16.jsonl",
+      "examples": 240,
+      "sha256": "96df32dcc4b2a6b48aa7bbda329522e261397fa4db69a2088f52ab4ea010fa8e",
+      "dataset_fingerprint": "7f05801335f57fbe756a9e00d9dc0cfe76e7057c1da8ff09bb7eb6785a1c3d97"
+    },
+    {
+      "date": "2025-06-17",
+      "file": "2025/06-17.jsonl",
+      "examples": 240,
+      "sha256": "faa7f2e0214c8e72f2135111a7c4fb35b3e76287c36defc19f4513de709d6979",
+      "dataset_fingerprint": "e0c7f19c89b1c6637872d81587ab502038dcf837b74815b04f14d257b54eae16"
+    },
+    {
+      "date": "2025-06-19",
+      "file": "2025/06-19.jsonl",
+      "examples": 240,
+      "sha256": "dda0f15b6e16a00e66de16912deb514ccaab52792f5fb8eba802f548a5eab683",
+      "dataset_fingerprint": "c2a85204e2e833fe3333e55ac3c3d65e42530d35d423f140d38c0aec6a8d1923"
+    },
+    {
+      "date": "2025-06-20",
+      "file": "2025/06-20.jsonl",
+      "examples": 240,
+      "sha256": "7f6c7169d27bf8292a074c568ddd965b68a1b9a0dabf6d1f483ea7ad3379e36b",
+      "dataset_fingerprint": "9fb327c4d20e79396812b6e3dd2a60bd9eaba51c7a39a03e674b79e3cfacf28c"
+    },
+    {
+      "date": "2025-06-21",
+      "file": "2025/06-21.jsonl",
+      "examples": 240,
+      "sha256": "0d169998fe3800ed443569b1ed4ca56adb85089836fa91c2cfd17d99268ca997",
+      "dataset_fingerprint": "53c2e710d21cfcf5ae42ec04729225752e77d9aebe08dc5495d5cf7c1560d271"
+    },
+    {
+      "date": "2025-06-29",
+      "file": "2025/06-29.jsonl",
+      "examples": 240,
+      "sha256": "0c322bafc6bc92ae9ef7f93d3ecedb92fcd28e9453a9bfeb1bad772530a55b5e",
+      "dataset_fingerprint": "a38c0dbbda5e2f58b74518a8becaaced9bc46929f658822994d666b30377a020"
+    },
+    {
+      "date": "2025-07-06",
+      "file": "2025/07-06.jsonl",
+      "examples": 240,
+      "sha256": "1922913fe2a9821cdd54c38bfc077552a18e0f66077f523bcd8e653c7928e85b",
+      "dataset_fingerprint": "203a824c1aa5260bfd3c42706f9380006a090b56bf8fc04717a44b1c496becda"
+    },
+    {
+      "date": "2025-07-09",
+      "file": "2025/07-09.jsonl",
+      "examples": 240,
+      "sha256": "e223e3f73da062994c33c7866c4660f675084ba4d9488e121fd4f4d7e37fb075",
+      "dataset_fingerprint": "bf5aaf1e6f24ac346bbc477de1d15a2bc3ee3a7b06b3ef38b52f7897e6d1a7d7"
+    },
+    {
+      "date": "2025-07-10",
+      "file": "2025/07-10.jsonl",
+      "examples": 240,
+      "sha256": "922b603526588c10115c058210905b6ad93c4a768a3207c01f7f73369ef6db5e",
+      "dataset_fingerprint": "3e0282cfff546a77ed85e9576171b0b8ca008df3157467e43eb9f0afbff6724a"
+    },
+    {
+      "date": "2025-07-13",
+      "file": "2025/07-13.jsonl",
+      "examples": 240,
+      "sha256": "0c2656dd53efd09baa9da58102e3c95a41ac2c875633bc27d8db3afbeb041e0e",
+      "dataset_fingerprint": "1099743a0c6d12768394d55117c12bc0e9eb6115c72c862358aa3284123f0d60"
+    },
+    {
+      "date": "2025-07-31",
+      "file": "2025/07-31.jsonl",
+      "examples": 240,
+      "sha256": "e1a0307659d86df24108a94d8a895e16fa114672e9dbc2aaaf6d6a8205229243",
+      "dataset_fingerprint": "3bccbe7af6b12a5afd46101962ea01f2798c9ccf86dcb6c9cc9ceebb356a8b6a"
+    },
+    {
+      "date": "2025-08-04",
+      "file": "2025/08-04.jsonl",
+      "examples": 240,
+      "sha256": "7872e47a4345bb3e13e24440cd6295966047698e6f3e15c663ab16a9492bd413",
+      "dataset_fingerprint": "51e3cf17984d2e9f2c53f4517266f91631361a4b671a4eda5989887014def793"
+    },
+    {
+      "date": "2025-08-06",
+      "file": "2025/08-06.jsonl",
+      "examples": 240,
+      "sha256": "b090a88247015af2ebdc9d8640528a95d653b325c03400d91b2b4a411733ce9f",
+      "dataset_fingerprint": "144e752254289b52d5879b3d0419c1e0539d4e32cf38f7b6812252eafcb818d7"
+    },
+    {
+      "date": "2025-08-07",
+      "file": "2025/08-07.jsonl",
+      "examples": 240,
+      "sha256": "8e1f8bc8cc8ad17fc46d59130164e40bd924e5385f02a3f1b21deae4b84faf06",
+      "dataset_fingerprint": "054baa33d744db33564a7feed43757bfd4997bc71dc38db0a1d34da124500a12"
+    },
+    {
+      "date": "2025-08-10",
+      "file": "2025/08-10.jsonl",
+      "examples": 240,
+      "sha256": "5374c56460c6df19f051006f7bef2b9ce0b35a96fb404c8bca6952e25e154b3b",
+      "dataset_fingerprint": "3e540ce147a701c33a11a82243fa47eb1a78f30122d6839e52b262b29d169f09"
+    },
+    {
+      "date": "2025-08-14",
+      "file": "2025/08-14.jsonl",
+      "examples": 240,
+      "sha256": "fda765c1451f74d8ea2a99b411c142dd98332935f4c0195242d870da7a99c98b",
+      "dataset_fingerprint": "59f283a5e921b833af2c25a1770d75804973cf050c4e3deecf567a8c0d6c8be8"
+    },
+    {
+      "date": "2025-08-20",
+      "file": "2025/08-20.jsonl",
+      "examples": 240,
+      "sha256": "c06c86e40a6420f4066e821265649d2201c266be5e81544a837ff82fbab05a58",
+      "dataset_fingerprint": "a3a726f58210e120f38b5cf4edf2d61376d5c543b8e956dbcb93d66838a208c1"
+    },
+    {
+      "date": "2025-08-22",
+      "file": "2025/08-22.jsonl",
+      "examples": 240,
+      "sha256": "7e39d5163f664b96d6cb19d0eb611ddab5ab25e42dc19b5447e2eebd4bc2233b",
+      "dataset_fingerprint": "227ab76e93367fc89410494a4b9521138996ed1380aafc82a1debee013706d43"
+    },
+    {
+      "date": "2025-08-23",
+      "file": "2025/08-23.jsonl",
+      "examples": 240,
+      "sha256": "58033550383e939acae13686e400933d1ee87535739b1d50ecf536153f1f531f",
+      "dataset_fingerprint": "d0038108f2830f09c4f645f4dcbe8d86a61a5b512bbe45f60550b2cbdebdc19b"
+    },
+    {
+      "date": "2025-08-26",
+      "file": "2025/08-26.jsonl",
+      "examples": 240,
+      "sha256": "158cebf1c7e875c634b57a32bb095c75cc55df4ab9e5b333d7e526b2492d96d4",
+      "dataset_fingerprint": "ccb35c09640f4f781dd95a0ce7e773d793c1452b823669e60083b71d363a20fb"
+    },
+    {
+      "date": "2025-08-27",
+      "file": "2025/08-27.jsonl",
+      "examples": 240,
+      "sha256": "cc07e6759fc794dce7024f2306cac1e005491ee9cba090343c4005878ac63be7",
+      "dataset_fingerprint": "c6d8a42d31adf41599fd2342ade1080ba493525a62197f82fc60e8c2624c079e"
+    },
+    {
+      "date": "2025-08-28",
+      "file": "2025/08-28.jsonl",
+      "examples": 240,
+      "sha256": "b4744b140647f0f4d302db9433437aa5a9ae9209ccf7bd513963bf7370a04fb0",
+      "dataset_fingerprint": "58e0921867f7fe7542c106cb5b40394b56b38d79e57a1a5a127e22f449a6e62d"
+    },
+    {
+      "date": "2025-08-31",
+      "file": "2025/08-31.jsonl",
+      "examples": 240,
+      "sha256": "8c945a9706ff7f37c8b7e701a80c7e400da69d308351bbcebd2ffc412a7c11a2",
+      "dataset_fingerprint": "37113ac036fbece44f70aa54c02630b70a18e76ade8a943d120c40b7b67dc590"
+    },
+    {
+      "date": "2025-09-02",
+      "file": "2025/09-02.jsonl",
+      "examples": 240,
+      "sha256": "70d36ca57afdda8c72c2d892b92d6051d7ab1a1afc4d96ec7b290f71fd066133",
+      "dataset_fingerprint": "b89c5c7ba6823eaafc588703253655b0c4731d4f71ba99b1dbfa593b4a609721"
+    },
+    {
+      "date": "2025-09-03",
+      "file": "2025/09-03.jsonl",
+      "examples": 240,
+      "sha256": "9933caa2766cf05ac093227bdf83b62db70b9cb9c8064b228f89f50db3b4738d",
+      "dataset_fingerprint": "d614846e0bdddca0e265ccbf018b7b10066ef366951bd9e4a9487e5ea8ee80bb"
+    },
+    {
+      "date": "2025-09-04",
+      "file": "2025/09-04.jsonl",
+      "examples": 240,
+      "sha256": "a18a01caa06a784e665d0048750857e46dca374c77a793cda1ba537fbdb10a2b",
+      "dataset_fingerprint": "acb3ae710bb4dd1471f4b00c410414984384c3c215e3ca1ab458d401a158d84d"
+    },
+    {
+      "date": "2025-09-06",
+      "file": "2025/09-06.jsonl",
+      "examples": 240,
+      "sha256": "101a5c59f3583e46c66bde7ace0190797409837a246dae0173a67a178fcb7f4d",
+      "dataset_fingerprint": "b10996f09078ad750b4dd03bc388802f9a0feaa939d938b0a74328d367f359c5"
+    },
+    {
+      "date": "2025-09-07",
+      "file": "2025/09-07.jsonl",
+      "examples": 240,
+      "sha256": "6538a010e8fad76af4eff90a7166ab2f296017ace775a08d8865197a9ca8c50c",
+      "dataset_fingerprint": "3659d1bc245ef4f3c5a9eb6646df0cf9e7b54f88f15bcd5be059ed004c0867e5"
+    },
+    {
+      "date": "2025-09-08",
+      "file": "2025/09-08.jsonl",
+      "examples": 240,
+      "sha256": "21575c2e9fbf627f929a52124fcc5aec0ec7118909058fab740ce4e1d0727b12",
+      "dataset_fingerprint": "1e5a907c764a0577338123f6451d83011bdde44c886c5abd256740aee3fcc13e"
+    },
+    {
+      "date": "2025-09-09",
+      "file": "2025/09-09.jsonl",
+      "examples": 240,
+      "sha256": "a9a6e906ca238382faeb78ca22f5ed5e8b22df583d83adf1bb5dc5736f03f8c4",
+      "dataset_fingerprint": "e30a2082266900d263472123a33ab830d65036c0056ab63bf3685b44d258bcc0"
+    },
+    {
+      "date": "2025-09-10",
+      "file": "2025/09-10.jsonl",
+      "examples": 240,
+      "sha256": "3af707a384a5427fcdcf09a91eb62d0ca7ab5eb97b1d4087d7a469c4d7980037",
+      "dataset_fingerprint": "2090d92a94121c6d9f1b6ddcdb1a188b74eebd9e2913f7757c2ee4dad7df4ac7"
+    },
+    {
+      "date": "2025-09-11",
+      "file": "2025/09-11.jsonl",
+      "examples": 240,
+      "sha256": "ca1584cc2ff188d2be7da0cde81f7680f38832bc3ce9857193545d2beae757ae",
+      "dataset_fingerprint": "e2bbad0a616646bf0c856287b38e175d8d9dbd24e5f54c1d0ee9da34d52854a1"
+    },
+    {
+      "date": "2025-09-12",
+      "file": "2025/09-12.jsonl",
+      "examples": 240,
+      "sha256": "c804ce404a87ae48756ef0666d1d79b48da6ed93098dff7602eedc2e9a44a1bf",
+      "dataset_fingerprint": "6b1d318d3f56edf2671e18e68d5754373cdf49dcce34625c3f9ee7eafcafd60a"
+    },
+    {
+      "date": "2025-09-13",
+      "file": "2025/09-13.jsonl",
+      "examples": 240,
+      "sha256": "be3c9585169871821765673ffe74c61532cf1a670b49d36e6ab6977bed4b4d53",
+      "dataset_fingerprint": "4d7b7ea3cc4fe44dcec3450284b6cd27a529bef19ad337a01cedeaf6b110df43"
+    },
+    {
+      "date": "2025-09-14",
+      "file": "2025/09-14.jsonl",
+      "examples": 240,
+      "sha256": "5ff3ec8d9cfcf7a0b08df552423224eda8edea69e3b2d43d973e4de5004da4ab",
+      "dataset_fingerprint": "bb4146476dc5ee7fd9b7b3c33c69183c7590f12b7b1cc5eba05532f2033d0f27"
+    },
+    {
+      "date": "2025-09-15",
+      "file": "2025/09-15.jsonl",
+      "examples": 240,
+      "sha256": "a524f097cb1ac217966415c5bdfd53e48b8b7995215e7b3391fbbb746bf19dc3",
+      "dataset_fingerprint": "adfb1ef49e85c48c12d6775f6ef501c7b007d1c5c98d8ed421b384c653eb4774"
+    },
+    {
+      "date": "2025-09-17",
+      "file": "2025/09-17.jsonl",
+      "examples": 240,
+      "sha256": "9ec0a4b122690d57240a4f6cfa1fcb5d2574079050aa707b20c6673daff420bf",
+      "dataset_fingerprint": "3f107c6e138e61de5deb1f40b25959d7ef0d9d0725d60f26b2e64dbb2af1d1f2"
+    },
+    {
+      "date": "2025-09-19",
+      "file": "2025/09-19.jsonl",
+      "examples": 240,
+      "sha256": "387cdaa7c5cd43b192fb282584b6a360b9237731559d59cc0af135501f7efec5",
+      "dataset_fingerprint": "7cde1cfa2932be21293e359b48be6a4761f140a55bcb1919e7b181fc3bdd1eed"
+    },
+    {
+      "date": "2025-09-20",
+      "file": "2025/09-20.jsonl",
+      "examples": 240,
+      "sha256": "a83419fda67a5531752677143152870a6844087f941a031a8f49a51243f330c9",
+      "dataset_fingerprint": "c956249c826897306f6d4abc200cca1b342a80f2a377d32a5a1ecf127c98e5d0"
+    },
+    {
+      "date": "2025-09-22",
+      "file": "2025/09-22.jsonl",
+      "examples": 240,
+      "sha256": "0d7ad92c9c6dc9ada0e97218fb428c5cf7905ecd085ef368be2910d2230d409c",
+      "dataset_fingerprint": "7e2f8d32a5b0c69a75ab7691fc39107feb20b70d1d957421d1d4ecdb7c8bc148"
+    },
+    {
+      "date": "2025-09-24",
+      "file": "2025/09-24.jsonl",
+      "examples": 240,
+      "sha256": "e008fe413106d860858cbe5ed262157e8123df64babce68ce1a509726ac78dcb",
+      "dataset_fingerprint": "fda6741f222781c3f98a92829ce6a0102201f52fb5ba3f14a25ca8538bc8fe85"
+    },
+    {
+      "date": "2025-09-27",
+      "file": "2025/09-27.jsonl",
+      "examples": 240,
+      "sha256": "989c60e04a0ae13f17d76823c7f6f2870216d05388d93585fd649382933679f1",
+      "dataset_fingerprint": "b3769ae38a11e665834ab873b2ecf429b03bf83c35c99257674704eb4240e6be"
+    },
+    {
+      "date": "2025-09-28",
+      "file": "2025/09-28.jsonl",
+      "examples": 240,
+      "sha256": "0e32498cb62e37b306466a4ef54f1530cece7d19ae73912228013465b3a221fa",
+      "dataset_fingerprint": "8c4b57f9fd739bbc59f40ebc3a84966ce07b2457bc356ec05a3171e5493b0d87"
+    },
+    {
+      "date": "2025-09-29",
+      "file": "2025/09-29.jsonl",
+      "examples": 240,
+      "sha256": "0af2888e79236214defffdc5154b0c633f7ced89bfa90ec41fbd8256849ab825",
+      "dataset_fingerprint": "2bd015759521b0b5234e4ae39d5ea77252e2eb26b63efb037695a9111096d947"
+    },
+    {
+      "date": "2025-09-30",
+      "file": "2025/09-30.jsonl",
+      "examples": 240,
+      "sha256": "36b7a2d433da270095def27ce51b15efe6006675937c6445b4c014e8d4b2fbe2",
+      "dataset_fingerprint": "5fda6a4ea932b98ded431253e650a51a9b3ac9ba838839ca3131944b737b28d9"
+    },
+    {
+      "date": "2025-10-01",
+      "file": "2025/10-01.jsonl",
+      "examples": 240,
+      "sha256": "f163f3cfd6330655ca07489bac5f77299b38170e93114f1ab9341403ec52a287",
+      "dataset_fingerprint": "673fcb7347a01808b7a11d8dd0f9b00c73808a493225a5a3229401b9921e7e2d"
+    },
+    {
+      "date": "2025-10-04",
+      "file": "2025/10-04.jsonl",
+      "examples": 240,
+      "sha256": "fa615dd2de49ca6ab5e462b40f5ef0bb59ad054673de7f50e3b3b1d05b9137f9",
+      "dataset_fingerprint": "1d82bd8c2c6fbc202fe91fd2504cb77de8f526be93e2fda19d4494b528f3046c"
+    },
+    {
+      "date": "2025-10-05",
+      "file": "2025/10-05.jsonl",
+      "examples": 240,
+      "sha256": "a993496077870ad150f3b56b55a0cdc8da2da71837e3ee3fce8d9913b201bd6a",
+      "dataset_fingerprint": "01a289329753e14a6af073709fe091b3a441454839060c9ad03fb0b149785189"
+    },
+    {
+      "date": "2025-10-08",
+      "file": "2025/10-08.jsonl",
+      "examples": 240,
+      "sha256": "51467137cc936cebdb86f754d8e00d391154bd9d66ed3440b162af61076b459c",
+      "dataset_fingerprint": "01290b3af6a6f619597f1137afb4e1691f2937f6c01fa3d194235d60edbab81f"
+    },
+    {
+      "date": "2025-10-09",
+      "file": "2025/10-09.jsonl",
+      "examples": 240,
+      "sha256": "7cc1215b9e2596a48bfff43cd2a7a9d809c870d89985e9877f1f099d02f0fc7b",
+      "dataset_fingerprint": "b5e3511a04f1d64128c10c52b005340878aa8d1b69e51fac3a2d43a567132e0d"
+    },
+    {
+      "date": "2025-10-10",
+      "file": "2025/10-10.jsonl",
+      "examples": 240,
+      "sha256": "44c3dfb1ebe0dc476a953c7fcfacb4a0cf4894a77a182c1d146d07878b992767",
+      "dataset_fingerprint": "a65b2fd6cd0afb2c8770fd34a6180200d0d029139e2e805fd77ce0f2556aa24c"
+    },
+    {
+      "date": "2025-10-11",
+      "file": "2025/10-11.jsonl",
+      "examples": 240,
+      "sha256": "6612afcbc7a52babc940fdc506f91ec888e4a6203a419c5ad03073b239cbec20",
+      "dataset_fingerprint": "9c645ce6f073c9d40a8c59cf340094fbc07a23562becd5dafcbf121e9245011f"
+    },
+    {
+      "date": "2025-10-14",
+      "file": "2025/10-14.jsonl",
+      "examples": 240,
+      "sha256": "fab5dd35ac7bdf72f09bca943c103acd2a8df1e360464186548e7810e940a78f",
+      "dataset_fingerprint": "c985ba8d4e2c32d5abbba09bcdbc5aebe7fab4dd09d69cd986ad54ca5d75d6aa"
+    },
+    {
+      "date": "2025-10-16",
+      "file": "2025/10-16.jsonl",
+      "examples": 240,
+      "sha256": "54000351b2cfa9db332d9c78e9bcae2a22e23e3930632dc1889dcd85afa7b003",
+      "dataset_fingerprint": "2ffd05b6e369e258ae02af217f0b2a1e5db152b5b0e85e3ebcb729fc1c9edeeb"
+    },
+    {
+      "date": "2025-10-17",
+      "file": "2025/10-17.jsonl",
+      "examples": 240,
+      "sha256": "71563d03a9e8925fa530afcbc892ec5d5a745d4df787e10de8fead666eb87ffe",
+      "dataset_fingerprint": "2c44690f18320c32df1685e34e98187ac1d49f0cc82c48a71ba7f9fcb6d123dd"
+    },
+    {
+      "date": "2025-10-18",
+      "file": "2025/10-18.jsonl",
+      "examples": 240,
+      "sha256": "4ffdd70c77f39c2663d5e4730280d0665ae48bb84e3ec4f8af840c5149f538eb",
+      "dataset_fingerprint": "bb7595060b921a4a1a7d8fbe2dc62f18954552c79cbd506b9da93bc181e280ec"
+    },
+    {
+      "date": "2025-10-20",
+      "file": "2025/10-20.jsonl",
+      "examples": 240,
+      "sha256": "9c73506f25573e3c914b4afeb71451e3d3adf63676c9ced843e8c7dfea434473",
+      "dataset_fingerprint": "64d5413618884b353eeedc152afb80d6524daa92d6dd26a6ad9c4da0ffc3cea0"
+    },
+    {
+      "date": "2025-10-22",
+      "file": "2025/10-22.jsonl",
+      "examples": 240,
+      "sha256": "7333e0beec478f2217cb49644594d3bec4c9a252804a837e1af6f19347f47966",
+      "dataset_fingerprint": "b000554b2a6d41ccd4675e306d62369f81427e903c5f4963f20aaafb3763142a"
+    },
+    {
+      "date": "2025-10-23",
+      "file": "2025/10-23.jsonl",
+      "examples": 240,
+      "sha256": "0671153650a62e55393385d15cd8638d4fdfa69b6c9120b1fbd9cd6efc196c2b",
+      "dataset_fingerprint": "7fff0e373dd07dba27930faaf6ed490c7a93d929972f7a381deff830ee59588f"
+    },
+    {
+      "date": "2025-10-25",
+      "file": "2025/10-25.jsonl",
+      "examples": 240,
+      "sha256": "6c773286b12f075631b445155fcb7090affd6b43fd47697077cb4a5394b47256",
+      "dataset_fingerprint": "ee97fc89dfad11af8dfc8b5d578b56afd6fda94c150a2343470348660dc8cfc6"
+    },
+    {
+      "date": "2025-10-26",
+      "file": "2025/10-26.jsonl",
+      "examples": 240,
+      "sha256": "50f7ba5a5bf00efc14b01da113b362d2e76812fdbb6a56ab9710879270ef64d1",
+      "dataset_fingerprint": "4e3f1e52aab9ff250375c8740a894080a9886af9ee12085833f010a0f4bf5a52"
+    },
+    {
+      "date": "2025-10-27",
+      "file": "2025/10-27.jsonl",
+      "examples": 240,
+      "sha256": "35fbd1d60bf16b22a98db3d155d50f7440fb76a7ed8eab3d76b273895b5a567b",
+      "dataset_fingerprint": "c47a2c0bd227985be4c09ff9b72111ce895d8791fd80811ec4c97438f949d054"
+    },
+    {
+      "date": "2025-10-29",
+      "file": "2025/10-29.jsonl",
+      "examples": 240,
+      "sha256": "6e3d98cdd9baac7455c1c5c1a8f477720d25084f51f43bbc12598576bb668cfb",
+      "dataset_fingerprint": "0acac0496c801fbe28d493b1e211a1eb0e767e1602b213b156e083fdf5a47967"
+    },
+    {
+      "date": "2025-10-30",
+      "file": "2025/10-30.jsonl",
+      "examples": 240,
+      "sha256": "4261d46be00e8ba7c038370e4e499cf0e436f16ca7142be7b5c38fcc8ee782a2",
+      "dataset_fingerprint": "c201d342a9fba2d06b070087cd6a45ed79539219185a41afc41f51b63dd2d1eb"
+    },
+    {
+      "date": "2025-11-01",
+      "file": "2025/11-01.jsonl",
+      "examples": 240,
+      "sha256": "8c89124223fefeca1f7f89c8ebe194c33124e691f226f67f6f8f3800499c0862",
+      "dataset_fingerprint": "bdbd5097a4fabac795eb971f99ee85673994f5702dda6958a78ad5c3bd55ef23"
+    },
+    {
+      "date": "2025-11-02",
+      "file": "2025/11-02.jsonl",
+      "examples": 240,
+      "sha256": "bd07563f590773405ffff9ebcf14042fa1ffa9d8058b1d81ba5da50d8258d0dd",
+      "dataset_fingerprint": "336b9d22c5adf0669ecddbdb3401da0a4b876df8ce9c76528c937dd68a92fd11"
+    },
+    {
+      "date": "2025-11-03",
+      "file": "2025/11-03.jsonl",
+      "examples": 240,
+      "sha256": "6dec30959694a52e1f2bcb45f9c991ea51d7b40af40e3de7a6d9679d5931ba65",
+      "dataset_fingerprint": "bfb5e0f2e1a2ba22a36c97c1e1a1b8338a9d562411c7672e89b2cb4a44addb21"
+    },
+    {
+      "date": "2025-11-04",
+      "file": "2025/11-04.jsonl",
+      "examples": 240,
+      "sha256": "ea1ec6e20b0a6613a45b714fcbc1bc845009bfa91d211baf3e9376f22868e78e",
+      "dataset_fingerprint": "cf9c912612dbd7586d1cceaffae6647580aabc10085bf86f523290886f94728f"
+    },
+    {
+      "date": "2025-11-05",
+      "file": "2025/11-05.jsonl",
+      "examples": 240,
+      "sha256": "fe0db180c929fc37aa8a342a20a3b44ca80b456b2b2aa91c835d8f5251d414ce",
+      "dataset_fingerprint": "2f72288cc52c78994144b7592355f9cf971732da4bf06c1f4908b607822f9bc6"
+    },
+    {
+      "date": "2025-11-08",
+      "file": "2025/11-08.jsonl",
+      "examples": 240,
+      "sha256": "b8fde40704fd9687b25a1da7ec1c654b47b351f9086c625518ced6fa23e15238",
+      "dataset_fingerprint": "2232b89e659063ab8adeb99510aae7bfdb774382ba5f35de9f42e64b0db1463d"
+    },
+    {
+      "date": "2025-11-10",
+      "file": "2025/11-10.jsonl",
+      "examples": 240,
+      "sha256": "0d8eac3ac5bd506f371f4da4b4a46dd18ffcbda2f66095171d1fe8ef6d41590c",
+      "dataset_fingerprint": "e77c74c6b973b28301edfe89cbe7dfdd7dc972632a0c407db258f36a9470de0e"
+    },
+    {
+      "date": "2025-11-11",
+      "file": "2025/11-11.jsonl",
+      "examples": 240,
+      "sha256": "3c9a04f63ad7825b2378508ca897ccfb41af11ce5dc4547964c928cb0fd1fe71",
+      "dataset_fingerprint": "034614d2a9777812d4aac96c459d672d9266b0fe53b82cf16cb213153bf76bbc"
+    },
+    {
+      "date": "2025-11-15",
+      "file": "2025/11-15.jsonl",
+      "examples": 240,
+      "sha256": "517e1b2af4bd81de73571ffde725521214eef8f514c23a3121e8561c2a62e0e8",
+      "dataset_fingerprint": "b78624c7b5706808df07103b8ecf828388e48e6c7674c339df8ce871bb2f2c7d"
+    },
+    {
+      "date": "2025-11-17",
+      "file": "2025/11-17.jsonl",
+      "examples": 240,
+      "sha256": "027d207cf8dce461ba06e67c3da4975ceccfa8b33993be07be0cd77da8a5bffe",
+      "dataset_fingerprint": "047fba6bb431b46f9ef7fe6a6e7b2e9781a44073699889321e69984e826792d0"
+    },
+    {
+      "date": "2025-11-19",
+      "file": "2025/11-19.jsonl",
+      "examples": 240,
+      "sha256": "4c5c73881b824d458ecaf43140fe245990cee3ea97c5b9f1033e161e80109ee0",
+      "dataset_fingerprint": "d297033814ba446a280bb738c515e09ffc2f575e3e7ebdfde8c6eb0681234894"
+    },
+    {
+      "date": "2025-11-20",
+      "file": "2025/11-20.jsonl",
+      "examples": 240,
+      "sha256": "9fd10e05a1ae0cd0487b9ada5e21c6be169ee26e6aabab498d6d1e227943613a",
+      "dataset_fingerprint": "093a38af70c021df0ff14e15b7d242a72de0d57e4dd8c5cf0be18a6cc95d1714"
+    },
+    {
+      "date": "2025-11-21",
+      "file": "2025/11-21.jsonl",
+      "examples": 240,
+      "sha256": "5b8eab5e6ea96e8934e4f0b16257e4d34fb4ae2514a22dd10601c55dff8e1d2f",
+      "dataset_fingerprint": "215da998c11dcc2e77fc38bdc413f333ab1952f5ac2e17c76b97bf04c5d7b781"
+    },
+    {
+      "date": "2025-11-22",
+      "file": "2025/11-22.jsonl",
+      "examples": 240,
+      "sha256": "826745295222f8ceaffb325722cdfa0d7454264fcce61961e2ed046b83d57ae9",
+      "dataset_fingerprint": "ba8fdc2f0cfa8ccc41814996b023d01bf0a741e4c401c3abd6cd924760ca1462"
+    },
+    {
+      "date": "2025-11-23",
+      "file": "2025/11-23.jsonl",
+      "examples": 240,
+      "sha256": "07c88a5912b0c2cebe51b12f509f8358c30f61d4cd05b76c75ab1b772dd10c3f",
+      "dataset_fingerprint": "cf82a4f8218f27e3896134984d5927bbd75f9cfb456eb9c3389cc4a3d4081795"
+    },
+    {
+      "date": "2025-11-24",
+      "file": "2025/11-24.jsonl",
+      "examples": 240,
+      "sha256": "2f5ec0dfb4e06c6464e776030054ed010374ac05e13c370ab282ce4c1a68ef2d",
+      "dataset_fingerprint": "de000f65d03dd0f9951bd838ad38454b825acde920534da1e75ec69badab48e7"
+    },
+    {
+      "date": "2025-11-26",
+      "file": "2025/11-26.jsonl",
+      "examples": 240,
+      "sha256": "9134c69b7d1729e681a7a19250709b8fb3030ebc66f949901f08b82ce07584da",
+      "dataset_fingerprint": "c518627d1c50e86d66943baf53f44cca3e6b8187b474bb15641d675c5399f895"
+    },
+    {
+      "date": "2025-11-28",
+      "file": "2025/11-28.jsonl",
+      "examples": 240,
+      "sha256": "e061703101cb786d532f70c8893e7a4ee37d64a05f6befc994412e35792c7505",
+      "dataset_fingerprint": "72f7a46f272c8d60ccad6debe7aedd1de0b778f81eb07a2ec6bff77535f8f0e3"
+    },
+    {
+      "date": "2025-11-29",
+      "file": "2025/11-29.jsonl",
+      "examples": 240,
+      "sha256": "3c57c584dba56d3ce897ab040ecd6a3730017086f6c34a940c91dc7bc91d0042",
+      "dataset_fingerprint": "2047f6613037578804547fede59fde705ca376e70aa6a3dfccfdbc7792797b43"
+    },
+    {
+      "date": "2025-12-01",
+      "file": "2025/12-01.jsonl",
+      "examples": 240,
+      "sha256": "12fd995b16c09734e42df7a19d462f6ddaa5fcf8e57d7b00a760f2dfd8bf14f9",
+      "dataset_fingerprint": "b8a7dd26bde180c5eea39484c271f4edf64ac92a423bd095e61980b7094914d7"
+    },
+    {
+      "date": "2025-12-02",
+      "file": "2025/12-02.jsonl",
+      "examples": 240,
+      "sha256": "15a217de5b6bfaf7a91c6c866e15f5da75a6479a479abfca12787797d7808eb0",
+      "dataset_fingerprint": "1fc343372740f8bf72ea7b3258ea9e47b34d838b7a1f152bc16109b2a245b255"
+    },
+    {
+      "date": "2025-12-03",
+      "file": "2025/12-03.jsonl",
+      "examples": 240,
+      "sha256": "4a4b4a98f45340ce7ead7907fb61da34868ae002df8970feef2420e344703a2b",
+      "dataset_fingerprint": "5fe82c36786dc38e7822ae9864c3fcac2dbd9cc47ee82ca713d2d2e31b8a87c9"
+    },
+    {
+      "date": "2025-12-04",
+      "file": "2025/12-04.jsonl",
+      "examples": 240,
+      "sha256": "35aaeb52aed182da2d8aae0e67eaafdebebf8a4e9ac0ef1c9f67ed77ffc1bc13",
+      "dataset_fingerprint": "9d0a76be91cf0369a0d801f5bc181ec9fb62df578887253d04d8500ebf21dfc1"
+    },
+    {
+      "date": "2025-12-05",
+      "file": "2025/12-05.jsonl",
+      "examples": 240,
+      "sha256": "4c2f265562b7da09213bd296eadff94d32ddbd8139b81a93dbeebc220cc33b9e",
+      "dataset_fingerprint": "d247a7c1505995447d888a9eef1de9c8812acb6dbe56888fb274c66d7d321625"
+    },
+    {
+      "date": "2025-12-06",
+      "file": "2025/12-06.jsonl",
+      "examples": 240,
+      "sha256": "ed65bf880146b9656a2b63ca718979ea38c9c80976536e82283a39e03a183231",
+      "dataset_fingerprint": "e68254a9d3345acceb427e8d24a05ae0f808ef32db87027fb75545dc93603b78"
+    },
+    {
+      "date": "2025-12-07",
+      "file": "2025/12-07.jsonl",
+      "examples": 240,
+      "sha256": "fea0d0c0522194645409352447e6deb8998a14c9a09ee2fe4706aa9e2e80499c",
+      "dataset_fingerprint": "007860d93131df6e62bdb189ff5cfbadacb3ae5f1616a7a7e68cf320df3e2cad"
+    },
+    {
+      "date": "2025-12-08",
+      "file": "2025/12-08.jsonl",
+      "examples": 240,
+      "sha256": "a8b3b73f0140469dbc700437d35483f1e47fb57c433780e65c4b327e1658c1d2",
+      "dataset_fingerprint": "66c53e5ac7eddb17e940322724100ee601f25136ae156d36ad9c298c42173445"
+    },
+    {
+      "date": "2025-12-09",
+      "file": "2025/12-09.jsonl",
+      "examples": 240,
+      "sha256": "7692ff56f1e77c5f710a0ef6cb8db581441fc169b19071bcd8214d991c45aa9c",
+      "dataset_fingerprint": "89b6e40c06595fe470146a8ec45635f71a60c728e80318ceb31b5e3962eea8f8"
+    },
+    {
+      "date": "2025-12-10",
+      "file": "2025/12-10.jsonl",
+      "examples": 240,
+      "sha256": "188ad48d01c073221eaf206788b86e887369dbaf7c16a46c55d014618347756e",
+      "dataset_fingerprint": "f1268b8a1ecc442293c297ef72cb348b052397786e573138c29a2e7d9464b243"
+    },
+    {
+      "date": "2025-12-12",
+      "file": "2025/12-12.jsonl",
+      "examples": 240,
+      "sha256": "7f380c6af55d708560e6997ff978f18a322dd3e02a48fa8a845c5fb97b1954e0",
+      "dataset_fingerprint": "2aa3a97be5293a318d3d4c2d9409d888975c99a48fd493662ec4d9820abfc242"
+    },
+    {
+      "date": "2025-12-13",
+      "file": "2025/12-13.jsonl",
+      "examples": 240,
+      "sha256": "c9e20225b30f0d0084661684bac46eff409125e0cf145427e971f2d9b076e84f",
+      "dataset_fingerprint": "8ffecfb484e8f7c421e4487bab30744269d820838e4cffbcaa6620aabe8a7df6"
+    },
+    {
+      "date": "2025-12-14",
+      "file": "2025/12-14.jsonl",
+      "examples": 240,
+      "sha256": "f60eb430e27549a6cede33b2c5bf7f6106f18b60c8ae3323b9c488a53b741d20",
+      "dataset_fingerprint": "7d12e2adf0fac2c4c0e9d59e84fd8f498416e57a27d0869dd2da0d8d2041ed47"
+    },
+    {
+      "date": "2025-12-15",
+      "file": "2025/12-15.jsonl",
+      "examples": 240,
+      "sha256": "cac73055281a5e5cd28df00532d958d28f3c768321594dabba2810e52c1f24e7",
+      "dataset_fingerprint": "04323d48d18af4b8ad0896e0cf2f26a494d0516eb613c8498b0f6726917b846e"
+    },
+    {
+      "date": "2025-12-16",
+      "file": "2025/12-16.jsonl",
+      "examples": 240,
+      "sha256": "159008dc56076eb1f5de14f5654d7031bb2abd486d2e5bac6bec7e3bbcae0d83",
+      "dataset_fingerprint": "73c9bcfded0cef9517e4301e384f089047309ddde88d44533b17526842a764e5"
+    },
+    {
+      "date": "2025-12-17",
+      "file": "2025/12-17.jsonl",
+      "examples": 240,
+      "sha256": "16cb895b7c97c469696ad71ec00bcba86b6e7a4e2002ef29e010d7b526a83a2e",
+      "dataset_fingerprint": "b7dc56dee7b4134f85df6bad5b09918ed6077bb7570be0c59a93937ce3fa53ee"
+    },
+    {
+      "date": "2025-12-18",
+      "file": "2025/12-18.jsonl",
+      "examples": 240,
+      "sha256": "965292faeb2c35a4ea822c6975a52d33bc540148b3b0bfe4b2bdb6a4a654d1eb",
+      "dataset_fingerprint": "66d6c98038d3c5da59af6c5523b78b1c9c5c2880bb3f7f28ff2998518075e315"
+    },
+    {
+      "date": "2025-12-19",
+      "file": "2025/12-19.jsonl",
+      "examples": 240,
+      "sha256": "2cc00203fce306a05ed1b1d88406497b5b16af91f6f965a04308e81a40654d11",
+      "dataset_fingerprint": "3aa65f6fe773de76797d68192cbf93c73d5ece1ac8446011ac1f90281168ef66"
+    },
+    {
+      "date": "2025-12-21",
+      "file": "2025/12-21.jsonl",
+      "examples": 240,
+      "sha256": "ae5eca7f8fa339a09daefad25aa51637c82ca9da5c9918da98ce75bae8ad7698",
+      "dataset_fingerprint": "fe538ed650cf9cdbba458b6f5b467d799b8aee621150344c5481426996347d8a"
+    },
+    {
+      "date": "2025-12-22",
+      "file": "2025/12-22.jsonl",
+      "examples": 240,
+      "sha256": "da0c48b46424fa09ed36b64d6f1617f9a5ef4a57704cdb6f35c058f90afb32d5",
+      "dataset_fingerprint": "287e5eb977ed15c582974ea18ccc3a007bdf5cfa761548355e0b0895d3ced685"
+    },
+    {
+      "date": "2025-12-24",
+      "file": "2025/12-24.jsonl",
+      "examples": 240,
+      "sha256": "fb8786455d90a5c331e63144c460c1ece5d25dbada077443b62838386e4053fe",
+      "dataset_fingerprint": "b3fc05934c6dcafb882244146279056a46152fc3eb7a6d0826342f88eab7e705"
+    },
+    {
+      "date": "2025-12-25",
+      "file": "2025/12-25.jsonl",
+      "examples": 240,
+      "sha256": "a83f3a189686ac9530b4e1d470b91157acbb7a149c79ae0a788fc6643fb8de95",
+      "dataset_fingerprint": "38f1d8d4c2ef7bac1b901219d8afd8a62faa62766fc227921f0dfd7f4fec5b88"
+    },
+    {
+      "date": "2025-12-26",
+      "file": "2025/12-26.jsonl",
+      "examples": 240,
+      "sha256": "54e93b204710c76d505f4a7ba180254810a039a023fc758222a5e78308547ce3",
+      "dataset_fingerprint": "de69f9b2c0a3c3b782ef9333cfb82ab30f211981e472d75f6b751edd7dbd2af8"
+    },
+    {
+      "date": "2025-12-27",
+      "file": "2025/12-27.jsonl",
+      "examples": 240,
+      "sha256": "c8f7f8fbb846c9a3a9031d7f1e4d3f6e81678bb3d4c9e7939fc4c7b7c8b863fd",
+      "dataset_fingerprint": "d2e54d76836fa0f64f8c2bd8803dc205ddfecf9f00992b027367af6e6ed29b82"
+    },
+    {
+      "date": "2025-12-28",
+      "file": "2025/12-28.jsonl",
+      "examples": 240,
+      "sha256": "bc34894d81fdab5777bfe09c4f8f3a35e1304b0bf7bedf9dbf6038cc183b2aff",
+      "dataset_fingerprint": "c0d02d1dd3ec11827e221bf712695012f8107e131bbbe61a7bdbdcd1f64a4e01"
+    },
+    {
+      "date": "2025-12-29",
+      "file": "2025/12-29.jsonl",
+      "examples": 240,
+      "sha256": "9db37a30abe86711b7592ee7d304114196deb10542c4be4e2217cfc73bb300e0",
+      "dataset_fingerprint": "75b464644b33aa480557ffeb933205c86ccbee8e46dcca5c0a6d52a2ed6a6517"
+    },
+    {
+      "date": "2025-12-30",
+      "file": "2025/12-30.jsonl",
+      "examples": 240,
+      "sha256": "39a859d85e49af67de9025e7e3e4e814a30108b427e9dd5becd6431ee9aeb231",
+      "dataset_fingerprint": "c123df69940d2ade627efe0a855da6fb5abcd2b9d04f3bce54595aa4d12be90c"
+    },
+    {
+      "date": "2025-12-31",
+      "file": "2025/12-31.jsonl",
+      "examples": 240,
+      "sha256": "789161722211497bd702a760d59dea78ed44674940a9f891524fc1da206ffa9f",
+      "dataset_fingerprint": "31341a9506087d2ae61a8c58e9319c05c057a91fb158280897e9107f2b87841d"
+    }
+  ]
+}
