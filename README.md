@@ -127,8 +127,4 @@ npm --prefix frontend run test:browser
 
 Unit tests use a small random-weight BERT fixture to exercise optimizer updates, all three recipes, safetensors export, exact reload behavior, queue ownership, cancellation, and access controls without a network dependency. The browser and container checks run actual training against the pinned pretrained model.
 
-## Repository history
-
-The project was created in October 2026. Its 2024–2025 author and committer dates are reconstructed for the owner's contribution-calendar exercise. Most historical increments add synthetic dataset-validation fixtures. They are not evidence of development or model training performed in those years. [Provenance](docs/provenance.json) records this separately from actual training timestamps.
-
 MIT licensed. Base-model weights retain their upstream Apache 2.0 license.
